@@ -14,6 +14,9 @@ Data Analysts:
 - Makeup color impact on price
 - Ingredients effect on ratings
 - Makeup rating effect on price
+- Brand effect on price
+- Country vs ingredients/taglist
+- Difference in market price (price, currency, price sign) between different countries and products
 
 ## What is your dependent variable in the data you are pulling from?
 
