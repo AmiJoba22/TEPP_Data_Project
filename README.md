@@ -7,6 +7,7 @@ Data Analysts:
 - Niekelle Bloomfield
 - Renee Jackson
 - Sheryl Boateng
+- Christina Francis
 
 ## What does your dataset explore?
 
@@ -15,7 +16,7 @@ It explores the safety of various makeup products
 - Ingredients effect on ratings : Sheryl
 - Makeup rating & brand effect on price : Niekelle
 - Country effect on ratings : Renee
-- Country vs what ingredients/taglist : Christina
+- Country effect on ingredients/tags : Christina
 - Category & taglist effect on price : Leomary
 - Difference in market price (price, currency, price sign) between different countries and products : Amina
 - Makeup color impact on price?
