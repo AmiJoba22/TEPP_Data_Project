@@ -10,13 +10,15 @@ Data Analysts:
 
 ## What does your dataset explore?
 
-- It explores the safety of various makeup products
-- Makeup color impact on price
-- Ingredients effect on ratings
-- Makeup rating effect on price
-- Brand effect on price
-- Country vs ingredients/taglist
-- Difference in market price (price, currency, price sign) between different countries and products
+It explores the safety of various makeup products
+
+- Ingredients effect on ratings : Sheryl
+- Makeup rating & brand effect on price : Niekelle
+- Country effect on ratings : Renee
+- Country vs what ingredients/taglist : Christina
+- Category & taglist effect on price : Leomary
+- Difference in market price (price, currency, price sign) between different countries and products : Amina
+- Makeup color impact on price?
 
 ## What is your dependent variable in the data you are pulling from?
 
