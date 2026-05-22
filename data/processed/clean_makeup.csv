@@ -1,0 +1,960 @@
+id,brand,name,category,product_type,price,currency,tag_list,rating
+1048,colourpop,Lippie Pencil,pencil,lip_liner,5.0,CAD,"['cruelty free', 'Vegan']",
+1047,colourpop,Blotted Lip,lipstick,lipstick,5.5,CAD,"['cruelty free', 'Vegan']",
+1046,colourpop,Lippie Stix,lipstick,lipstick,5.5,CAD,"['cruelty free', 'Vegan']",
+1045,colourpop,No Filter Foundation,liquid,foundation,12.0,CAD,"['cruelty free', 'Vegan']",
+1044,boosh,Lipstick,lipstick,lipstick,26.0,CAD,"['Chemical Free', 'Organic']",
+1043,deciem,Serum Foundation,liquid,foundation,6.7,CAD,"['water free', 'cruelty free', 'alcohol free', 'oil free', 'silicone free', 'Vegan', 'Gluten Free']",
+1042,deciem,Coverage Foundation,liquid,foundation,6.9,CAD,"['water free', 'cruelty free', 'alcohol free', 'oil free', 'silicone free', 'Vegan', 'Gluten Free']",
+1041,zorah biocosmetiques,Liquid Liner,liquid,eyeliner,0.0,USD,"['purpicks', 'EcoCert']",
+1040,zorah biocosmetiques,Eyeshadow,,eyeshadow,0.0,USD,"['purpicks', 'EcoCert']",
+1039,w3llpeople, Realist Invisible Setting Powder,powder,foundation,0.0,USD,"['EWG Verified', 'purpicks', 'Gluten Free']",
+1038,sally b's skin yummies,B Smudged,,eyeshadow,0.0,USD,"['EWG Verified', 'purpicks']",
+1037,sally b's skin yummies,B Glossy Lip Gloss,lip_gloss,lipstick,0.0,USD,"['EWG Verified', 'purpicks']",
+1036,rejuva minerals,Multi Purpose Powder - Blush & Eye,,eyeshadow,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1035,rejuva minerals,Multi Purpose Powder - Blush & Eye,powder,blush,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1034,rejuva minerals,Multi Purpose Powder - Eye Shadow & Face,,eyeshadow,0.0,USD,"['purpicks', 'EWG Verified', 'Vegan', 'Organic']",
+1033,rejuva minerals,Pressed Powder Foundation,powder,foundation,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1032,rejuva minerals,Bronzer - loose,powder,bronzer,0.0,USD,"['purpicks', 'EWG Verified', 'Vegan', 'Gluten Free']",
+1031,rejuva minerals,Bronzer - pressed,powder,bronzer,0.0,USD,"['purpicks', 'EWG Verified', 'Vegan', 'Gluten Free']",
+1030,penny lane organics,Lip Gloss,lip_gloss,lipstick,0.0,USD,"['purpicks', 'CertClean', 'Vegan', 'Chemical Free', 'Gluten Free']",
+1029,nudus,Amalia,lipstick,lipstick,0.0,USD,['purpicks'],
+1028,marienatie,Pressed Foundation,powder,foundation,0.0,USD,"['purpicks', 'CertClean']",
+1027,marienatie,Pressed Eye Shadow,,eyeshadow,0.0,USD,"['purpicks', 'CertClean']",
+1026,marienatie,Mineral Blush,powder,blush,0.0,USD,"['purpicks', 'CertClean']",
+1025,marienatie,Perfect Lash Mascara,,mascara,0.0,USD,"['purpicks', 'CertClean']",
+1024,marienatie,Loose Mineral Eyeshadow,,eyeshadow,0.0,USD,"['purpicks', 'CertClean']",
+1023,marienatie,Lipstick,lipstick,lipstick,0.0,USD,"['purpicks', 'CertClean', 'Vegan', 'Gluten Free']",
+1022,marienatie,Lip Gloss,lip_gloss,lipstick,0.0,USD,"['purpicks', 'CertClean']",
+1021,marienatie,Gel Liner,gel,eyeliner,0.0,USD,"['purpicks', 'CertClean', 'Vegan', 'Gluten Free']",
+1020,marienatie,Eyeliner,pencil,eyeliner,0.0,USD,"['purpicks', 'CertClean']",
+1019,maia's mineral galaxy,Mineral Eye Brow Liner Charcoal Brown,pencil,eyebrow,0.0,USD,"['EWG Verified', 'purpicks']",
+1018,lotus cosmetics usa,Mascara,,mascara,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1017,lotus cosmetics usa,Creme to Powder Blush,cream,blush,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1016,lotus cosmetics usa,Eye Shadow Palette Mesmerize,palette,eyeshadow,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1015,lotus cosmetics usa,Eye Shadow Palette Deluxe,palette,eyeshadow,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1014,lotus cosmetics usa,Eye Shadow Palette Smokey,palette,eyeshadow,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1013,lotus cosmetics usa,Eye Shadow Palette Seduction,palette,eyeshadow,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1012,lotus cosmetics usa,Eye Shadow Palette Cocoa,palette,eyeshadow,0.0,USD,"['purpicks', 'Organic', 'USDA Organic']",
+1011,green people,Volumising Mascara,,mascara,0.0,USD,"['purpicks', 'EcoCert']",
+1010,coastal classic creation,Conch Lipstick,lipstick,lipstick,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1009,c'est moi,Reflect Lip Gloss,lip_gloss,lipstick,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1008,c'est moi,Muse Mascara,,mascara,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1007,c'est moi,Luminary Lip Crayon,pencil,lip_liner,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1006,c'est moi,Fearless Eyeliner,pencil,eyeliner,0.0,USD,"['purpicks', 'EWG Verified', 'Hypoallergenic', 'No Talc']",
+1005,alva,Liquid Eye Shadow,cream,eyeshadow,9.95,USD,"['purpicks', 'Organic', 'Vegan']",
+1004,glossier,Stretch Concealer,concealer,foundation,22.0,USD,[],
+1003,glossier,Cloud Paint,cream,blush,22.0,USD,[],
+1002,glossier,Wowder,powder,foundation,27.0,USD,[],
+1001,glossier,Haloscope,highlighter,foundation,27.0,USD,[],
+1000,glossier,Perfecting Skin Tint,,foundation,32.0,USD,[],
+999,glossier,Generation G,,lipstick,20.0,USD,[],
+998,nyx,Fly With Me Mascara,,mascara,9.0,USD,[],
+997,nyx,Propel My Eyes Mascara,,mascara,9.0,USD,[],
+996,nyx,Proof It! Waterproof Mascara Top Coat,,mascara,7.0,USD,[],
+995,nyx,Big & Loud Lash Primer,,mascara,7.0,USD,[],
+994,nyx,Double Stacked Mascara,,mascara,15.0,USD,[],
+993,nyx,Doll Eye Mascara,,mascara,9.5,USD,[],
+992,nyx,The Skinny Mascara,,mascara,7.0,USD,[],
+991,nyx,Worth the Hype Volumizing & Lengthening Mascara,,mascara,8.0,USD,[],
+990,nyx,Boudoir Mascara Collection,,mascara,6.0,USD,[],
+989,nyx,Color Mascara,,mascara,7.0,USD,[],
+988,nyx,Super Luscious Mascara,,mascara,7.0,USD,[],
+987,nyx,Eyebrow Marker,,eyebrow,9.75,USD,[],
+986,nyx,Eyebrow Kit With Stencil,,eyebrow,15.0,USD,[],
+985,nyx,Eyebrow Push-Up Bra,,eyebrow,10.0,USD,[],
+984,nyx,3-Dimensional Brow Marker,,eyebrow,10.0,USD,[],
+983,nyx,Eyebrow Shaper,,eyebrow,8.75,USD,[],
+982,nyx,Build 'Em Up Brow Powder,,eyebrow,8.0,USD,[],
+981,nyx,3-in-1 Brow Pencil,,eyebrow,13.0,USD,[],
+980,nyx,Proof It! Waterproof Eyebrow Primer,,eyebrow,7.0,USD,[],
+979,nyx,Eyebrow Powder Pencil,,eyebrow,6.5,USD,[],
+978,nyx,Precision Brow Pencil,,eyebrow,10.0,USD,[],
+977,nyx,Sculpt & Highlight Brow Contour,,eyebrow,10.0,USD,[],
+976,nyx,Control Freak Eyebrow Gel,,eyebrow,6.0,USD,[],
+975,nyx,Eyebrow Cake Powder,,eyebrow,6.0,USD,[],
+974,nyx,Tinted Brow Mascara,,eyebrow,7.0,USD,[],
+973,nyx,Auto Eyebrow Pencil,,eyebrow,4.75,USD,[],
+972,nyx,Eyebrow Gel,,eyebrow,7.0,USD,[],
+971,nyx,Tame & Frame Brow Pomade,,eyebrow,7.0,USD,[],
+970,nyx,Micro Brow Pencil,,eyebrow,10.0,USD,[],
+969,nyx,Holographic Halo Cream Eyeliner,cream,eyeliner,11.0,USD,[],
+968,nyx,Cake That! Powder Eyeliner,cream,eyeliner,8.0,USD,[],
+967,nyx,Epic Black Mousse Liner,cream,eyeliner,10.0,USD,[],
+966,nyx,Cosmic Gel Liner,gel,eyeliner,10.0,USD,[],
+965,nyx,Gel Liner And Smudger,gel,eyeliner,9.0,USD,[],
+964,nyx,Metallic Eyeliner,pencil,eyeliner,8.0,USD,[],
+963,nyx,Tres Jolie Gel Pencil Liner,pencil,eyeliner,12.0,USD,[],
+962,nyx,Faux Whites Eye Brightener,pencil,eyeliner,8.0,USD,[],
+961,nyx,Faux Blacks Eyeliner,pencil,eyeliner,8.0,USD,[],
+960,nyx,Collection Noir,pencil,eyeliner,6.0,USD,[],
+959,nyx,Slim Eye Pencil,pencil,eyeliner,4.0,USD,[],
+958,nyx,Retractable Eye Liner,pencil,eyeliner,5.0,USD,[],
+957,nyx,Slide On Pencil,pencil,eyeliner,8.0,USD,[],
+956,nyx,Jumbo Eye Pencil,pencil,eyeliner,4.5,USD,[],
+955,nyx,Two Timer Dual Ended Eyeliner,liquid,eyeliner,10.0,USD,[],
+954,nyx,Strictly Vinyl Eyeliner,liquid,eyeliner,7.0,USD,[],
+953,nyx,Collection Chocolate,pencil,eyeliner,6.0,USD,[],
+952,nyx,Super Fat Eye Marker,liquid,eyeliner,10.0,USD,[],
+951,nyx,Super Skinny Eye Marker,liquid,eyeliner,9.5,USD,[],
+950,nyx,Felt Tip Liner,liquid,eyeliner,9.5,USD,[],
+949,nyx,The Curve,liquid,eyeliner,15.0,USD,[],
+948,nyx,Colored Felt Tip Liner,liquid,eyeliner,10.0,USD,[],
+947,nyx,Vinyl Liquid Liner,liquid,eyeliner,7.0,USD,[],
+946,nyx,That's The Point Eyeliner,liquid,eyeliner,10.0,USD,[],
+945,nyx,White Liquid Liner,liquid,eyeliner,7.0,USD,[],
+944,nyx,Studio Liquid Liner,liquid,eyeliner,4.5,USD,[],
+943,nyx,Epic Ink Liner,liquid,eyeliner,8.0,USD,[],
+942,nyx,Glam Liner Aqua Luxe Collection,liquid,eyeliner,5.5,USD,[],
+941,nyx,Matte Liquid Liner,liquid,eyeliner,7.0,USD,[],
+940,nyx,Vivid Brights Liner,liquid,eyeliner,7.0,USD,[],
+939,nyx,SFX Setting Powder,powder,foundation,10.0,USD,[],
+938,nyx,Holographic Halo Finishing Powder,powder,foundation,12.0,USD,[],
+937,nyx,Blotting Powder,powder,foundation,12.0,USD,[],
+936,nyx,#NOFILTER Finishing Powder,powder,foundation,12.0,USD,[],
+935,nyx,Color Correcting Powder,powder,foundation,10.0,USD,[],
+934,nyx,High Definition Finishing Powder Mini,powder,foundation,3.5,USD,[],
+933,nyx,Primal Colors,powder,foundation,5.0,USD,[],
+932,nyx,Radiant Finishing Powder,powder,foundation,9.0,USD,[],
+931,nyx,Mineral Finishing Powder,powder,foundation,10.0,USD,[],
+930,nyx,High Definition Finishing Powder,powder,foundation,10.0,USD,[],
+929,nyx,Studio Finishing Powder,powder,foundation,10.0,USD,[],
+928,nyx,Tango With Bronzing Powder,,bronzer,10.0,USD,[],
+927,nyx,Illuminator,,bronzer,9.0,USD,[],
+926,nyx,Matte Bronzer,,bronzer,9.0,USD,[],
+924,nyx,Sweet Cheeks Blush Palette,,blush,20.0,USD,[],
+923,nyx,Cheek Contour Duo Palette,,blush,9.0,USD,[],
+922,nyx,High Definition Blush Pro Refills,,blush,6.0,USD,[],
+921,nyx,Bright Idea Illuminating Stick,,bronzer,8.0,USD,[],
+920,nyx,Rouge Cream Blush,,blush,6.0,USD,[],
+919,nyx,Mosaic Powder Blush,,bronzer,7.0,USD,[],
+918,nyx,Baked Blush,,blush,7.0,USD,[],
+917,nyx,Bronzer & Blusher Combo,,bronzer,9.0,USD,[],
+916,nyx,High Definition Blush,,blush,6.5,USD,[],
+915,nyx,Ombre Blush,,blush,10.0,USD,[],
+914,nyx,Stick Blush,,blush,6.0,USD,[],
+913,nyx,Powder Blush,,bronzer,5.0,USD,[],
+912,nyx,Gotcha Covered Concealer Pencil,concealer,foundation,7.0,USD,[],
+911,nyx,"Conceal, Correct, Contour Palette",concealer,foundation,12.0,USD,[],
+910,nyx,Wonder Pencil,pencil,eyeliner,4.5,USD,[],
+909,nyx,Dark Circle Concealer,concealer,foundation,6.0,USD,[],
+908,nyx,Gotcha Covered Concealer,concealer,foundation,6.0,USD,[],
+907,nyx,Color Correcting Palette,concealer,foundation,12.0,USD,[],
+906,nyx,Concealer Jar,concealer,foundation,5.0,USD,[],
+905,nyx,HD Photogenic Concealer Wand,concealer,foundation,5.0,USD,[],
+904,nyx,Tinted Moisturizer,,foundation,10.0,USD,[],
+903,nyx,Define & Refine Powder Foundation,powder,foundation,12.0,USD,[],
+902,nyx,BB Cream,,foundation,13.0,USD,[],
+901,nyx,Invincible Fullest Coverage Foundation,,foundation,12.0,USD,[],
+900,nyx,Mineral Stick Foundation,,foundation,10.0,USD,[],
+899,nyx,Stay Matte But Not Flat Liquid Foundation,,foundation,7.5,USD,[],
+898,nyx,Stay Matte But Not Flat Powder Foundation,powder,foundation,9.5,USD,[],
+897,nyx,HD Studio Photogenic Foundation,,foundation,18.0,USD,[],
+896,nyx,Hydra Touch Powder Foundation,powder,foundation,10.0,USD,[],
+895,nyx,Pro Foundation Mixer,,foundation,10.0,USD,[],
+894,nyx,Total Control Drop Foundation,,foundation,14.0,USD,[],
+893,nyx,#LOTD Lip Of The Day Liquid Lip Liner,,lip_liner,7.0,USD,[],
+892,nyx,Slide On Lip Pencil,,lip_liner,8.0,USD,[],
+891,nyx,Retractable Lip Liner,,lip_liner,5.0,USD,[],
+890,nyx,Suede Matte Lip Liner,,lip_liner,4.0,USD,[],
+889,nyx,Slim Lip Pencil,,lip_liner,4.0,USD,[],
+888,nyx,Luv Out Loud Liquid Lipstick,lipstick,lipstick,7.0,USD,[],
+887,nyx,V'Amped Up! Lip Top Coat,lipstick,lipstick,6.0,USD,[],
+886,nyx,Simply Pink Lip Cream,lipstick,lipstick,6.5,USD,[],
+885,nyx,Simply Red Lip Cream,lipstick,lipstick,6.5,USD,[],
+884,nyx,Simply Nude Lip Cream,lipstick,lipstick,6.5,USD,[],
+883,nyx,Macaron Lippies,lipstick,lipstick,6.5,USD,[],
+882,nyx,In Your Element Lipstick - Metal,lipstick,lipstick,9.0,USD,[],
+881,nyx,Whipped Lip & Cheek Soufflé,,blush,6.0,USD,[],
+880,nyx,Wicked Lippies,lipstick,lipstick,6.5,USD,[],
+879,nyx,Simply Vamp Lip Cream,lipstick,lipstick,6.5,USD,[],
+878,nyx,In Your Element Lipstick - Water,lipstick,lipstick,9.0,USD,[],
+877,nyx,In Your Element Lipstick - Wind,lipstick,lipstick,9.0,USD,[],
+876,nyx,In Your Element Lipstick - Fire,lipstick,lipstick,9.0,USD,[],
+875,nyx,In Your Element Lipstick - Air,lipstick,lipstick,9.0,USD,[],
+874,nyx,Jumbo Lip Pencil,,lip_liner,4.5,USD,[],
+873,nyx,In Your Element Lipstick - Earth,lipstick,lipstick,9.0,USD,[],
+872,nyx,Butter Lipstick,lipstick,lipstick,6.5,USD,[],
+871,nyx,Extra Creamy Round Lipstick,lipstick,lipstick,0.0,USD,[],
+870,nyx,Matte Lipstick,lipstick,lipstick,6.0,USD,[],
+869,nyx,Pro Lip Cream Palette,lipstick,lipstick,12.0,USD,[],
+868,nyx,Full Throttle Lipstick,lipstick,lipstick,7.0,USD,[],
+867,nyx,Plush Gel Lipstick,lipstick,lipstick,7.0,USD,[],
+866,nyx,Velvet Matte Lipstick,lipstick,lipstick,7.0,USD,[],
+865,nyx,Turnt Up! Lipstick,lipstick,lipstick,6.5,USD,[],
+864,nyx,Pin-Up Pout Lipstick,lipstick,lipstick,8.0,USD,[],
+863,nyx,Super Cliquey Matte Lipstick,lipstick,lipstick,9.0,USD,[],
+862,nyx,Powder Puff Lippie Powder Lip Cream,lipstick,lipstick,8.5,USD,[],
+861,nyx,Lip Lustre Glossy Lip Tint,lip_gloss,lipstick,7.0,USD,[],
+860,nyx,Cosmic Metals Lip Cream,lip_gloss,lipstick,7.5,USD,[],
+859,nyx,Epic Ink Lip Dye,lip_gloss,lipstick,7.0,USD,[],
+858,nyx,Strictly Vinyl Lip Gloss,lip_gloss,lipstick,8.0,USD,[],
+857,nyx,Duo Chromatic Lip Gloss,lip_gloss,lipstick,8.0,USD,[],
+856,nyx,Slip Tease Full Color Lip Oil,lip_gloss,lipstick,7.0,USD,[],
+855,nyx,Liquid Suede Metallic Matte,lipstick,lipstick,7.5,USD,[],
+854,nyx,Liquid Suede Cream Lipstick,lipstick,lipstick,7.0,USD,[],
+853,nyx,Lip Lingerie,lipstick,lipstick,7.0,USD,[],
+852,nyx,Soft Matte Lip Cream,lipstick,lipstick,6.5,USD,[],
+851,nyx,Soft Matte Metallic Lip Cream,liquid,lipstick,7.0,USD,[],
+850,fenty,MATTEMOISELLE - Plush Matte Lipstick,lipstick,lipstick,18.0,USD,[],
+849,fenty,ECLIPSE - 2-in-1 Glitter Release Eyeliner,liquid,eyeliner,20.0,USD,[],
+848,fenty,COSMIC GLOSS - Lip Glitter,lip_gloss,lipstick,19.0,USD,[],
+847,fenty,MATCH STIX - Matte Skinstick,concealer,foundation,25.0,USD,[],
+846,clinique,Even Better&trade; Compact Makeup Broad Spectrum SPF 15,,foundation,32.0,USD,[],
+845,clinique,Redness Solutions Makeup<BR>Broad Spectrum SPF 15<BR>With Probiotic Technology,,foundation,28.0,USD,[],
+844,clinique,Stay-Matte Oil-Free Makeup,,foundation,26.0,USD,[],
+843,clinique,Repairwear Laser Focus&trade; All-Smooth Makeup Broad Spectrum SPF 15,,foundation,36.0,USD,[],
+842,clinique,Perfectly Real&trade; Compact Makeup,,foundation,28.0,USD,[],
+841,clinique,Chubby in the Nude&trade; Foundation Stick,,foundation,25.0,USD,[],
+840,clinique,Super City Block™ BB Cushion Compact Broad Spectrum SPF 50,,foundation,17.5,USD,[],
+839,clinique,Superpowder Double Face Makeup,,foundation,24.0,USD,[],
+838,clinique,Perfectly Real&trade; Makeup,,foundation,28.0,USD,[],
+837,clinique,Beyond Perfecting&trade; Powder Foundation + Concealer,,foundation,28.0,USD,[],
+836,clinique,Acne Solutions&trade; Liquid Makeup,,foundation,28.0,USD,[],
+835,clinique,Superbalanced&trade; Makeup,,foundation,26.0,USD,[],
+834,clinique,Stay-Matte Sheer Pressed Powder,,foundation,26.0,USD,[],
+833,clinique,Superbalanced™ Silk Makeup Broad Spectrum SPF 15,,foundation,26.0,USD,[],
+832,clinique,Even Better&trade; Makeup Broad Spectrum SPF 15,,foundation,28.0,USD,[],
+831,clinique,Beyond Perfecting&trade; Foundation + Concealer,,foundation,28.0,USD,[],
+830,clinique,CliniqueFIT™ Workout Makeup Broad Spectrum SPF 40,,foundation,29.5,USD,[],
+829,clinique,Almost Powder Makeup,,foundation,28.0,USD,[],
+828,clinique,Clinique BIY&trade; Blend It Yourself Pigment Drops,,foundation,33.0,USD,[],
+827,clinique,Even Better Glow&trade; Light Reflecting Makeup Broad Spectrum SPF 15,,foundation,28.0,USD,[],
+826,clinique,Acne Solutions&trade; Clearing Concealer,concealer,foundation,18.0,USD,[],
+825,clinique,Line Smoothing Concealer,concealer,foundation,20.0,USD,[],
+824,clinique,All About Eyes&trade; Concealer,concealer,foundation,20.0,USD,[],
+823,clinique,Advanced Concealer,concealer,foundation,20.0,USD,[],
+822,clinique,Airbrush Concealer&trade;,concealer,foundation,22.0,USD,[],
+821,clinique,Continuous Coverage Makeup Broad Spectrum SPF 15,,foundation,26.0,USD,[],
+820,clinique,Beyond Perfecting&trade; Super Concealer Camouflage + 24-Hour Wear,concealer,foundation,19.5,USD,[],
+819,clinique,Moisture Surge&trade; CC Cream Hydrating Colour Corrector Broad Spectrum SPF 30,bb_cc,foundation,39.0,USD,[],
+818,clinique,Acne Solutions BB Cream Broad Spectrum SPF 40,,foundation,39.0,USD,[],
+817,clinique,Age Defense BB Cream<BR>Broad Spectrum SPF 30,bb_cc,foundation,38.5,USD,[],
+816,clinique,Super City Block™ BB Cushion Compact Broad Spectrum SPF 50 Refill,,foundation,25.0,USD,[],
+815,clinique,Wear Everywhere Neutrals All About Shadow&trade; 8-Pan Palette,palette,eyeshadow,37.0,USD,[],
+814,clinique,Pretty Easy™ Eye Palette,palette,eyeshadow,22.25,USD,[],
+813,clinique,All About Shadow&trade; Primer for Eyes,,eyeshadow,21.0,USD,[],
+812,clinique,Lid Smoothie&trade; Antioxidant 8-Hour Eye Colour,,eyeshadow,21.0,USD,[],
+811,clinique,Touch Base For Eyes&trade;,,eyeshadow,17.0,USD,[],
+810,clinique,Lid Pop™,,eyeshadow,18.0,USD,[],
+809,clinique,All About Shadow&trade; Single,,eyeshadow,16.5,USD,[],
+808,clinique,Chubby Stick&trade; Shadow Tint For Eyes,pencil,eyeshadow,17.5,USD,[],
+807,clinique,All About Shadow&trade; Quad,,eyeshadow,28.5,USD,[],
+806,clinique,All About Shadow&trade; Duo,,eyeshadow,22.0,USD,[],
+805,clinique,Clinique + Jonathan Adler: Lid Pop,,eyeshadow,14.0,USD,[],
+804,clinique,Clinique + Jonathan Adler: Limited Edition Chic Colour Kit,palette,eyeshadow,27.3,USD,[],
+803,clinique,Cream Shaper&trade; For Eyes,,eyeliner,17.5,USD,[],
+802,clinique,Quickliner&trade; For Eyes,,eyeliner,17.5,USD,[],
+801,clinique,High Impact™ Custom Black Kajal,,eyeliner,17.5,USD,[],
+800,clinique,Kohl Shaper For Eyes,,eyeliner,17.5,USD,[],
+799,clinique,Quickliner&#8482; For Eyes Intense,,eyeliner,17.5,USD,[],
+798,clinique,Brush-On Cream Liner,,eyeliner,17.5,USD,[],
+797,clinique,Water-Resistant Eyeliner,,eyeliner,17.5,USD,[],
+796,clinique,Clinique Skinny Stick&trade;,,eyeliner,17.0,USD,[],
+795,clinique,Pretty Easy™ Liquid Eyelining Pen,,eyeliner,21.0,USD,[],
+794,clinique,Instant Lift For Brows,,eyebrow,9.0,USD,[],
+793,clinique,Superfine Liner For Brows,,eyebrow,18.0,USD,[],
+792,clinique,Pretty Easy Brow Palette,,eyebrow,34.5,USD,[],
+791,clinique,Brow Keeper,,eyebrow,18.0,USD,[],
+790,clinique,Just Browsing Brush-On Styling Mousse,,eyebrow,18.0,USD,[],
+789,clinique,Brow Shaper,,eyebrow,18.0,USD,[],
+788,clinique,Chubby Stick&trade; Sculpting Highlight,contour,foundation,23.0,USD,[],
+787,clinique,Chubby Stick&trade; Sculpting Contour,contour,foundation,23.0,USD,[],
+786,clinique,Limited Edition Highlighting Kit,contour,foundation,39.0,USD,[],
+785,clinique,Blended Face Powder and Brush,,bronzer,26.0,USD,[],
+784,clinique,Up-lighting&trade; Liquid Illuminator,,bronzer,28.0,USD,[],
+783,clinique,True Bronze&trade; Pressed Powder Bronzer,,bronzer,27.0,USD,[],
+782,clinique,Uplighting Illuminating Powder,,bronzer,27.0,USD,[],
+781,clinique,Sun-Kissed Face Gelee Complexion Multitasker,,bronzer,28.0,USD,[],
+780,fenty,PRO FILT'R - Soft Matte Longwear Foundation,,foundation,34.0,USD,[],
+778,clinique,Sculptionary&trade; Cheek Contouring Palette,,blush,34.0,USD,[],
+777,clinique,Blushing Blush&trade; Powder Blush,,blush,23.0,USD,[],
+776,clinique,Cheek Pop&trade;,,blush,23.0,USD,[],
+775,clinique,Clinique + Jonathan Adler: Cheek Pop,,blush,18.9,USD,[],
+774,clinique,Soft-Pressed Powder Blusher,,blush,23.0,USD,[],
+773,clinique,Chubby Stick&trade; Cheek Colour Balm,,blush,23.0,USD,[],
+772,clinique,Clinique Pop&trade; Oil Lip & Cheek Glow,,blush,,,[],
+771,clinique,CliniqueFIT™  Lip + Cheek Flush,,blush,23.0,USD,[],
+770,clinique,Chubby&trade; Plump & Shine Liquid Lip Plumping Gloss,lip_gloss,lipstick,17.5,USD,[],
+769,clinique,Quickliner&trade; For Lips,,lip_liner,17.5,USD,[],
+768,clinique, Quickliner&trade; For Lips Intense,,lip_liner,17.5,USD,[],
+767,clinique,Almost Lipstick,lipstick,lipstick,17.5,USD,[],
+766,clinique,Butter Shine&trade; Lipstick,lipstick,lipstick,8.5,USD,[],
+765,clinique,High Impact&trade; Lip Colour,lipstick,lipstick,17.5,USD,[],
+764,clinique,Chubby Stick Intense&trade; Moisturizing Lip Colour Balm,lipstick,lipstick,17.0,USD,[],
+763,clinique,Long Last Soft Matte Lipstick,lipstick,lipstick,17.5,USD,[],
+762,clinique,Long Last Lipstick,lipstick,lipstick,17.0,USD,[],
+761,clinique,Clinique Pop Liquid™ Matte Lip Colour + Primer,lipstick,lipstick,18.5,USD,[],
+760,clinique,Chubby Stick Baby Tint&trade; Moisturizing Lip Colour Balm,lipstick,lipstick,17.5,USD,[],
+759,clinique,Clinique + Jonathan Adler: Pop Lip Colour + Primer,lipstick,lipstick,15.4,USD,[],
+758,clinique,Different Lipstick,lipstick,lipstick,17.5,USD,[],
+757,clinique,Clinique Pop™ Lacquer Lip Colour + Primer  ,lipstick,lipstick,18.5,USD,[],
+756,clinique,Clinique Pop Glaze&trade; Sheer Lip Colour + Primer,lipstick,lipstick,18.5,USD,[],
+755,clinique,Chubby Stick&trade; Moisturizing Lip Colour Balm,lipstick,lipstick,17.5,USD,[],
+754,clinique,Clinique Pop™ Matte Lip Colour + Primer,lipstick,lipstick,18.5,USD,[],
+753,clinique,Clinique Pop&trade; Lip Colour + Primer,lipstick,lipstick,18.5,USD,[],
+752,clinique,Clinique Pop&trade; Lip Shadow Cushion Matte Lip Powder,lipstick,lipstick,19.5,USD,[],
+740,dior,"
+                            Junon
+                            ",,nail_polish,20.0,GBP,[],
+730,dior,"
+                            Matte
+                            ",,nail_polish,20.0,GBP,[],
+729,dior,"
+                            Poison Metal
+                            ",,nail_polish,20.0,GBP,[],
+728,dior,"
+                            Jungle Matte
+                            ",,nail_polish,20.0,GBP,[],
+727,dior,"
+                            Miss Satin
+                            ",,nail_polish,20.0,GBP,[],
+726,dior,"
+                            Mineral
+                            ",,nail_polish,20.0,GBP,[],
+725,dior,"
+                            Sauvage
+                            ",,nail_polish,20.0,GBP,[],
+724,dior,"
+                            Diabolo
+                            ",,nail_polish,20.0,GBP,[],
+723,dior,"
+                            Tease
+                            ",,nail_polish,20.0,GBP,[],
+722,dior,"
+                            Precious Rocks
+                            ",,nail_polish,20.5,GBP,[],
+721,dior,"
+                            Amethyst
+                            ",,nail_polish,20.5,GBP,[],
+720,dior,"
+                            Emerald
+                            ",,nail_polish,20.5,GBP,[],
+719,dior,"
+                            Grenat
+                            ",,nail_polish,0.0,GBP,[],
+718,dior,"
+                            Ruby
+                            ",,nail_polish,20.5,GBP,[],
+717,dior,All-In-Brow 3D,,eyebrow,43.0,GBP,[],
+716,dior,Sourcils Poudre,,eyebrow,20.0,GBP,[],
+715,dior,DIORSHOW BROW STYLER,,eyebrow,20.0,GBP,[],
+714,dior,DIORSHOW BOLD BROW - Christmas 2017 Limited Edition,,eyebrow,22.0,GBP,[],
+713,dior,DIORSHOW BOLD BROW,,eyebrow,22.0,GBP,[],
+712,dior,Diorshow Art Pen,,eyeliner,27.5,GBP,[],
+711,dior,Diorliner,,eyeliner,27.0,GBP,[],
+710,dior,Dior Addict It-Line,,eyeliner,26.5,GBP,[],
+709,dior,Eyeliner Waterproof,,eyeliner,20.0,GBP,[],
+708,dior,DIORSHOW KHÔL,,eyeliner,19.5,GBP,[],
+707,dior,Diorshow Pro Liner Waterproof,,eyeliner,20.5,GBP,[],
+706,dior,Diorshow Iconic,,mascara,25.5,GBP,[],
+705,dior,Diorshow Iconic Overcurl,,mascara,25.5,GBP,[],
+704,dior,Dior Addict It-Lash,,mascara,25.5,GBP,[],
+703,dior,Diorshow New Look,,mascara,25.5,GBP,[],
+702,dior,Diorshow Black Out,,mascara,25.5,GBP,[],
+701,dior,DIORSHOW,,mascara,25.5,GBP,[],
+700,dior,DIORSHOW PUMP'N'VOLUME,,mascara,25.5,GBP,[],
+699,dior,Diorshow Maximizer 3D,,mascara,25.5,GBP,[],
+698,dior,Holiday Diorshow Pump n' Volume Set,,eyeshadow,25.5,GBP,[],
+697,dior,Couture Colour Wardrobe palette,palette,eyeshadow,65.0,GBP,[],
+696,dior,Colour Design Eye palette,palette,eyeshadow,45.0,GBP,[],
+695,dior,Eye Reviver,,eyeshadow,43.0,GBP,[],
+694,dior,5 COULEURS DESIGNER,,eyeshadow,45.0,GBP,[],
+693,dior,5 COULEURS PRECIOUS ROCKS - Christmas 2017 Limited Edition,,eyeshadow,43.5,GBP,[],
+692,dior,5 COULEURS,,eyeshadow,45.0,GBP,[],
+691,dior,Diorshow Mono,,eyeshadow,25.0,GBP,[],
+690,dior,Diorshow Fusion Mono Matte,,eyeshadow,0.0,GBP,[],
+689,dior,Diorshow Fusion Mono,,eyeshadow,25.5,GBP,[],
+688,dior,Backstage Eye Prime,,eyeshadow,22.5,GBP,[],
+687,dior,Diorskin Rosy Glow,,blush,32.0,GBP,[],
+686,dior,DIORBLUSH PRECIOUS ROCKS - Christmas 2017 Limited Edition,,blush,0.0,GBP,[],
+685,dior,Diorblush Sculpt,,blush,32.5,GBP,[],
+684,dior,Diorblush,,blush,32.5,GBP,[],
+683,dior,Diorskin Nude Air Tan,,bronzer,36.5,GBP,[],
+682,dior,Diorskin Nude Air Glow Powder,powder,foundation,39.5,GBP,[],
+681,dior,Diorskin Nude Air loose powder,powder,foundation,36.5,GBP,[],
+680,dior,Diorskin nude air powder,powder,foundation,36.5,GBP,[],
+679,dior,DIORIFIC PRECIOUS ROCKS - Christmas 2017 Limited Edition,powder,foundation,40.0,GBP,[],
+678,dior,Diorskin Forever & Ever Control Loose Powder,powder,foundation,36.5,GBP,[],
+677,dior,Fix It Colour,concealer,foundation,23.5,GBP,[],
+676,dior,Diorskin Forever Undercover,concealer,foundation,21.0,GBP,[],
+675,dior,FIX IT,concealer,foundation,23.5,GBP,[],
+674,dior,FLASH LUMINIZER,highlighter,foundation,29.0,GBP,[],
+673,dior,Dior Addict Lip Maximizer,lip_gloss,lipstick,25.0,GBP,[],
+672,dior,Dior Addict Ultra-Gloss,lip_gloss,lipstick,24.0,GBP,[],
+671,dior,Cheek & Lip Glow,,blush,27.5,GBP,[],
+670,dior,DIORIFIC MATTE FLUID - Christmas Look 2017 Limited Edition,lipstick,lipstick,27.5,GBP,[],
+669,dior,DIORIFIC KHÔL,lipstick,lipstick,29.5,GBP,[],
+668,dior,Diorific,lipstick,lipstick,29.5,GBP,[],
+667,dior,Dior Addict Lipstick - Limited Edition,lipstick,lipstick,27.5,GBP,[],
+666,dior,Dior Addict Lipstick,lipstick,lipstick,27.5,GBP,[],
+665,dior,DIOR ADDICT LACQUER STICK,lipstick,lipstick,27.5,GBP,[],
+664,dior,DIOR ADDICT LIP TATTOO,lip_gloss,lipstick,25.0,GBP,[],
+663,dior,ROUGE DIOR COLLECTION COUTURE - Christmas Look 2017 Limited Edition,lipstick,lipstick,29.5,GBP,[],
+662,dior,Dior Holiday Couture Collection,lipstick,lipstick,77.0,GBP,[],
+661,dior,ROUGE DIOR - Fall 2017 Limited Edition,lipstick,lipstick,27.5,GBP,[],
+660,dior,Rouge Dior,lipstick,lipstick,27.5,GBP,[],
+659,dior,Rouge Dior Double Rouge,lipstick,lipstick,27.5,GBP,[],
+658,dior,Rouge Dior Liquid,lipstick,lipstick,26.5,GBP,[],
+657,iman,Cover Cream Clay Medium Deep,cream,foundation,,,[],
+656,iman,Corrective Concealer Clay,concealer,foundation,,,[],
+655,iman,CC Correct & Cover Clay Medium Deep,bb_cc,foundation,,,[],
+654,iman,Luxury Blushing Powder Posh,powder,blush,,,[],
+653,iman,Skin Tone Evener BB Crème Clay Medium,bb_cc,foundation,,,[],
+652,iman,Perfect Eye Pencil Deception,pencil,eyeshadow,,,[],
+651,iman,Volumize Mascara Black Ink,,mascara,,,[],
+650,iman,Perfect Mascara Black,,mascara,,,[],
+649,iman,Amplify Mascara Black Ink,,mascara,,,[],
+648,iman,Perfect Eyebrow Pencil Blackest Brown,,eyebrow,,,[],
+647,iman,Perfect Eye Pencil Ebony,pencil,eyeliner,,,[],
+646,iman,Luxury Moisturizing Lipstick IMAN Nude,lipstick,lipstick,,,[],
+645,iman,Luxury Eye Shadow Bejeweled,,eyeshadow,,,[],
+644,benefit,the POREfessional: agent zero shine,powder,foundation,39.0,,[],
+643,benefit,hello flawless! powder foundation,powder,foundation,44.0,,[],
+641,benefit,dallas dusty rose face powder,,bronzer,36.0,,[],
+640,benefit,rockateur,,bronzer,36.0,,[],
+639,benefit,cheekathon bronzer & blush palette,,bronzer,75.0,,[],
+638,benefit,hoola matte bronzer travel size mini,,bronzer,20.0,,[],
+637,benefit,dew the hoola liquid bronzer,,bronzer,36.0,,[],
+636,benefit,hoola matte bronzer ,,bronzer,36.0,,[],
+635,benefit,high brow glow brow highlighter ,,eyebrow,29.0,,[],
+634,benefit,high brow eyebrow highlighter ,,eyebrow,29.0,,[],
+633,benefit,brow zings eyebrow shaping kit ,,eyebrow,42.0,,[],
+632,benefit,BROWVO! conditioning eyebrow primer ,,eyebrow,36.0,,[],
+631,benefit,"precisely, my brow eyebrow pencil ",,eyebrow,30.0,,[],
+630,benefit,ka-BROW! eyebrow cream-gel color ,,eyebrow,30.0,,[],
+629,benefit,goof proof eyebrow pencil ,,eyebrow,30.0,,[],
+628,benefit,gimme brow volumizing eyebrow gel,,eyebrow,30.0,,[],
+627,benefit,bigger & bolder brows kit,,eyebrow,44.0,,[],
+626,benefit,defined & refined brows kit,,eyebrow,44.0,,[],
+625,benefit,soft & natural brows kit,,eyebrow,44.0,,[],
+624,benefit,hydra-smooth lip color,lipstick,lipstick,23.0,,[],
+623,benefit,BIG sexy lipstick set,lipstick,lipstick,38.0,,[],
+622,benefit,ultra plush lip gloss,lip_gloss,lipstick,19.0,,[],
+621,benefit,hoola ultra plush,lip_gloss,lipstick,21.0,,[],
+620,benefit,CORALista ultra plush,lip_gloss,lipstick,21.0,,[],
+619,benefit,rockateur ultra plush,lip_gloss,lipstick,21.0,,[],
+618,benefit,hervana ultra plush,lip_gloss,lipstick,21.0,,[],
+617,benefit,dandelion ultra plush,lip_gloss,lipstick,21.0,,[],
+616,benefit,sugarbomb ultra plush,lip_gloss,lipstick,21.0,,[],
+615,benefit,lollibalm,lip_gloss,lipstick,23.0,,[],
+614,benefit,chachabalm,lip_gloss,lipstick,23.0,,[],
+613,benefit,posiebalm,lip_gloss,lipstick,23.0,,[],
+612,benefit,benebalm,lip_gloss,lipstick,23.0,,[],
+611,benefit,BADgal waterproof mascara,,mascara,26.0,,[],
+610,benefit,they're real! lengthening mascara mini,,mascara,16.0,,[],
+609,benefit,BADgal lash volumizing mascara,,mascara,26.0,,[],
+608,benefit,roller lash curling mascara ,,mascara,31.0,,[],
+607,benefit,they're real! lengthening mascara ,,mascara,31.0,,[],
+606,benefit,they're real! tinted eyelash primer,,mascara,31.0,,[],
+605,benefit,BADgal waterproof eyeliner,liquid,eyeliner,26.0,,[],
+604,benefit,creaseless cream eyeshadow,liquid,eyeliner,26.0,,[],
+603,benefit,they're real! gel eyeliner pen ,liquid,eyeliner,31.0,,[],
+560,smashbox,Bronze Lights,,bronzer,34.0,,[],
+559,smashbox,O-Glow ,,blush,29.0,,[],
+558,smashbox,Baked Fusion Soft Lights,,bronzer,32.0,,[],
+557,smashbox,L.A. Lights Palette,,blush,35.0,,[],
+556,smashbox,Brow Tech Highlight Stick,,eyebrow,21.0,,[],
+555,smashbox,Brow Tech Gloss Stick,,eyebrow,21.0,,[],
+554,smashbox,Brow Tech Matte Pencil,,eyebrow,21.0,,[],
+553,smashbox,Brow Tech Shaping Powder,,eyebrow,25.0,,[],
+552,smashbox,Brow Tech To Go,,eyebrow,28.0,,[],
+551,smashbox,24 Hour CC Spot Concealer,bb_cc,foundation,25.0,,[],
+550,smashbox,Camera Ready BB Cream Eyes SPF 15,bb_cc,foundation,25.0,,[],
+549,smashbox,Photo Filter Foundation,liquid,foundation,42.0,,[],
+548,smashbox,Halo Hydrating Powder,liquid,foundation,49.0,,[],
+547,smashbox,Halo HD Foundation SPF 15,liquid,foundation,45.0,,[],
+546,smashbox,Camera Ready CC Cream,bb_cc,foundation,42.0,,[],
+545,smashbox,Camera Ready BB Cream SPF 35,bb_cc,foundation,39.0,,[],
+544,smashbox,Camera Ready BB Water SPF 30,bb_cc,foundation,42.0,,[],
+543,smashbox,STUDIO SKIN 15 HOUR WEAR HYDRATING FOUNDATION ,liquid,foundation,42.0,,[],
+542,smashbox,Hyperlash Mascara,,mascara,23.0,,[],
+541,smashbox,Full Exposure Waterproof Mascara,,mascara,22.0,,[],
+540,smashbox,Full Exposure Mascara,,mascara,22.0,,[],
+539,smashbox,Indecent Exposure Mascara,,mascara,22.0,,[],
+538,smashbox,X-Rated Mascara,,mascara,22.0,,[],
+537,smashbox,Photo Finish Lash Primer,,mascara,22.0,,[],
+536,smashbox,Jet Set Waterproof Eye Liner,liquid,eyeliner,22.0,,[],
+535,smashbox,Photo Angle Gel Liner,liquid,eyeliner,24.0,,[],
+534,smashbox,Limitless Eye Liner,liquid,eyeliner,19.0,,[],
+533,smashbox,Limitless Liquid Liner,liquid,eyeliner,22.0,,[],
+532,smashbox,Always Sharp 3D Liner,liquid,eyeliner,20.0,,[],
+531,smashbox,Always Sharp Waterproof Kohl Liner,liquid,eyeliner,21.0,,[],
+530,smashbox,Double Exposure Palette,palette,eyeshadow,50.0,,[],
+529,smashbox,#ShapeMatters Palette,,eyebrow,55.0,,[],
+528,smashbox,Mini Full Exposure Palette,palette,eyeshadow,25.0,,[],
+527,smashbox,Full Exposure Palette,palette,eyeshadow,52.0,,[],
+526,smashbox,Photo Matte Eyes Mini,,eyeshadow,25.0,,[],
+525,smashbox,Photo Matte Eyes,,eyebrow,49.0,,[],
+524,smashbox,MATTE EXPOSURE PALETTE,palette,eyeshadow,49.0,,[],
+523,smashbox,Eye Shadow Trio,,eyeshadow,28.0,,[],
+522,smashbox,PHOTO OP EYE SHADOW SINGLES,,eyeshadow,18.0,,[],
+521,smashbox,BE LEGENDARY LONG-WEAR LIP LACQUER,lipstick,lipstick,24.0,,[],
+520,smashbox,L.A. Lights Cheek & Lip Color,,blush,29.0,,[],
+519,smashbox,Always Sharp Lip Liner,lipstick,lipstick,21.0,,[],
+518,smashbox,Insta-Matte Lipstick Transformer,lipstick,lipstick,24.0,,[],
+517,smashbox,BE LEGENDARY LIPSTICK × FOSTER SISTERS,lipstick,lipstick,21.0,,[],
+516,smashbox,Be Legendary Lipstick,lipstick,lipstick,21.0,,[],
+515,smashbox,ALWAYS ON LIQUID LIPSTICK,lipstick,lipstick,24.0,,[],
+514,marcelle,Marcelle Quad Bronzer Sunkissed,,bronzer,19.99,,['Canadian'],
+512,stila,Stila Stay All Day Bronzer in Medium,,bronzer,46.99,,[],
+509,mineral fusion,Mineral Fusion Bronzer Duo,,bronzer,37.0,,[],
+508,nyx,NYX Mosaic Powder Blush Paradise,,bronzer,10.49,,[],5.0
+507,,Saint Cosmetics Bronzer,,bronzer,30.96,,"['Natural', 'Vegan', 'Gluten Free', 'Canadian']",
+506,marcelle,Marcelle Monochromatic Bronzer,,bronzer,19.99,,['Canadian'],
+505,annabelle,Annabelle Biggy Bronzer Haute Gold,,bronzer,11.99,,[],5.0
+504,dr. hauschka,Dr. Hauschka Bronzing Powder Compact,,bronzer,44.0,,[],
+503,physicians formula,Physicians Formula Super BB InstaReady Filter BB Bronzer,,bronzer,19.99,,"['Gluten Free', 'Natural']",4.0
+502,cargo cosmetics,Cargo Cosmetics Big Bronzer,,bronzer,36.0,,[],
+501,cargo cosmetics,Cargo Cosmetics Matte Bronzer,,bronzer,30.0,,[],
+500,cargo cosmetics,Cargo Cosmetics Bronzer,,bronzer,30.0,,[],
+499,covergirl,CoverGirl truBLEND Bronzer,,bronzer,13.99,,[],
+497,physicians formula,Physicians Formula Argan Wear Ultra-Nourishing Argan Oil Bronzer,,bronzer,19.99,,['Gluten Free'],
+496,e.l.f.,e.l.f. Bronzer Palette,,bronzer,7.99,,[],
+495,maybelline,Maybelline Face Studio Master Hi-Light Light Booster Bronzer,,bronzer,14.99,,[],5.0
+494,,Fake Bake Beauty Bronzer,,bronzer,21.0,,[],
+493,physicians formula,Physicians Formula Bronze Booster Glow-Boosting Pressed Bronzer,,bronzer,20.99,,[],4.7
+492,almay,Almay Smart Shade Powder Bronzer,,bronzer,14.49,,[],
+491,e.l.f.,e.l.f. Bronzers ,,bronzer,3.99,,[],
+490,,Earth Lab Loose Mineral Bronzer,,bronzer,24.0,,"['Canadian', 'Natural']",5.0
+489,cargo cosmetics,Cargo Cosmetics Swimmables Water Resistant Bronzer,,bronzer,29.0,,[],5.0
+488,maybelline,Maybelline Fit Me Bronzer,,bronzer,10.29,,[],4.5
+487,physicians formula,Physicians Formula Bronze Booster Airbrushing Bronzing Veil ,,bronzer,19.99,,['Gluten Free'],5.0
+486,covergirl,CoverGirl Clean Glow Bronzer,,bronzer,8.99,,[],5.0
+485,milani,Milani Baked Bronzer ,,bronzer,9.99,,['Vegan'],4.0
+484,physicians formula,Physicians Formula Organic Wear 100% Natural Origin Bronzer ,,bronzer,21.99,,"['Gluten Free', 'Natural']",2.5
+483,dr. hauschka,Dr. Hauschka Translucent Bronzing Tint,,bronzer,45.0,,['Natural'],4.6
+481,pure anada,Pure Anada Loose Mineral Luminous Bronzer,,bronzer,12.0,,"['Canadian', 'Natural']",5.0
+480,cargo cosmetics,Cargo Cosmetics HD Bronzer,,bronzer,32.0,,[],
+479,physicians formula,Physicians Formula Bronze Booster Glow-Boosting BB Cream,,bronzer,19.99,,['Gluten Free'],4.0
+478,e.l.f.,e.l.f. Studio Bronzer,,bronzer,4.99,,['Vegan'],4.4
+477,maybelline,Maybelline Facestudio Master Contour Kit,,bronzer,15.99,,[],
+476,nyx,NYX Mosaic Powder Blush Spice,,bronzer,10.49,,[],
+475,,Fake Bake Blush Legal Sunburn,powder,blush,15.99,,[],5.0
+474,nyx,NYX Ombre Blush,powder,blush,12.99,,[],
+473,covergirl,CoverGirl truBLEND Blush in Light Rose,powder,blush,13.99,,[],
+472,cargo cosmetics,Cargo Cosmetics HD Picture Perfect Blush Highlighter,powder,blush,32.0,,[],
+471,cargo cosmetics,Cargo Cosmetics Contour Palette,,bronzer,36.0,,[],5.0
+470,l'oreal,L'Oreal Paris Infallible Pro-Contour Palette in Medium ,,bronzer,19.99,,[],
+469,,Saint Cosmetics Blush,powder,blush,28.96,,"['Natural', 'Vegan', 'Gluten Free', 'Canadian']",
+468,maybelline,Maybelline Face Studio Master Hi-Light Light Booster Blush,powder,blush,14.99,,[],
+467,sante,Sante Rouge,powder,blush,23.49,,['Natural'],3.0
+465,covergirl,CoverGirl truBLEND Blush in Medium Rose,powder,blush,13.99,,[],5.0
+464,annabelle,Annabelle Blush ,powder,blush,7.99,,[],
+463,nyx,NYX High Definition Blush,powder,blush,7.99,,[],4.0
+462,physicians formula,Physicians Formula Nude Wear Touch of Glow Palette in Light,,bronzer,19.99,,['Gluten Free'],3.8
+461,dr. hauschka,Dr. Hauschka Rouge Powder ,,bronzer,31.0,,"['Organic', 'Natural']",5.0
+460,cargo cosmetics,Cargo Cosmetics Swimmables Water Resistant Blush,powder,blush,29.0,,[],5.0
+459,mineral fusion,Mineral Fusion Blush,powder,blush,32.0,,"['Gluten Free', 'Natural']",5.0
+458,covergirl,CoverGirl Clean Glow Blush ,powder,blush,8.99,,[],5.0
+457,covergirl,CoverGirl Clean Glow Blush,powder,blush,8.99,,[],
+456,physicians formula,Physicians Formula Nude Wear Glowing Nude Blush,powder,blush,15.99,,['Gluten Free'],4.0
+455,covergirl,CoverGirl Cheekers Blush ,powder,blush,6.99,,[],5.0
+454,e.l.f.,e.l.f. Studio Blush Palette Dark,powder,blush,9.99,,['Vegan'],
+453,revlon,Revlon Powder Blush ,powder,blush,13.49,,[],5.0
+452,maybelline,Maybelline Face Studio Master Hi-Light Light Booster Blush ,powder,blush,14.99,,[],5.0
+451,physicians formula,Physicians Formula Nude Wear Glowing Nude Blush ,powder,blush,15.99,,['Gluten Free'],4.0
+450,e.l.f.,e.l.f. Contouring Blush & Bronzing Powder,,bronzer,3.99,,[],
+449,covergirl,CoverGirl Cheekers Blush,powder,blush,6.99,,[],5.0
+448,almay,Almay Smart Shade Powder Blush,powder,blush,14.49,,[],4.0
+447,l'oreal,L'Oreal Paris True Match,powder,blush,16.49,,[],4.8
+446,physicians formula,Physicians Formula Happy Booster Glow & Mood Boosting Blush,powder,blush,15.99,,['Gluten Free'],4.7
+445,pure anada,Pure Anada Loose Mineral Luminous Blush,powder,blush,12.0,,"['Canadian', 'Natural']",4.0
+444,physicians formula,Physicians Formula Mineral Wear Airbrushing Blush,powder,blush,15.49,,['Gluten Free'],4.8
+443,covergirl,CoverGirl Instant Cheekbones Contouring Blush,powder,blush,7.99,,[],3.3
+442,physicians formula,Physicians Formula Happy Booster Glow & Mood Boosting Powder,powder,blush,19.99,,['Gluten Free'],4.8
+441,e.l.f.,e.l.f. Studio Blush Palette Light,powder,blush,9.99,,['Vegan'],4.7
+440,pure anada,Pure Anada Loose Mineral Velvet Matte Blush ,powder,blush,12.0,,"['Canadian', 'Natural']",4.5
+439,maybelline,Maybelline Fit Me Blush,powder,blush,10.29,,[],4.8
+438,physicians formula,Physicians Formula Organic Wear Bronzer & Blush,,bronzer,21.99,,"['Gluten Free', 'Natural']",4.9
+437,pure anada,Pure Anada Pressed Mineral Cheek Colour Pan,powder,blush,12.0,,"['Natural', 'Vegan', 'Gluten Free', 'Non-GMO', 'Canadian']",4.4
+436,milani,Milani Rose Powder Blush,powder,blush,9.99,,[],4.6
+435,milani,Milani Baked Blush,powder,blush,7.99,,[],4.7
+434,cargo cosmetics,Cargo Cosmetics Blush,powder,blush,26.0,,[],4.8
+433,cargo cosmetics,Cargo Cosmetics Contour Palette ,,bronzer,36.0,,[],
+432,cargo cosmetics,Cargo Cosmetics BeachBlush,,bronzer,32.0,,[],
+431,e.l.f.,e.l.f. Studio Contouring Blush & Bronzing Powder,,bronzer,4.99,,['Vegan'],4.3
+430,cargo cosmetics,Cargo Cosmetics BeachBlush ,,bronzer,32.0,,[],5.0
+429,physicians formula,Physicians Formula Argan Wear Ultra-Nourishing Argan Oil Blush in Rose,powder,blush,15.99,,['Gluten Free'],5.0
+428,stila,Stila Convertible Colour Palette Sinrise Splendor,cream,blush,51.0,,[],
+427,stila,Stila Convertible Colour Palette Sunset Serenade,cream,blush,51.0,,[],
+421,anna sui,Anna Sui Cream Cheek Colour,cream,blush,27.0,,[],
+420,nyx,NYX Rouge Cream Blush,cream,blush,9.99,,[],2.0
+419,l'oreal,L'Oreal Paris Visible Lift Blur Blush ,cream,blush,15.99,,[],
+418,marcelle,Marcelle Cream Blush,cream,blush,14.99,,['Canadian'],5.0
+417,revlon,Revlon PhotoReady Cream Blush,cream,blush,13.49,,[],5.0
+416,,DaLish Lip Cheek Balm,cream,blush,15.0,,"['Canadian', 'Natural']",2.3
+415,physicians formula,Physicians Formula Super BB All-in-1 Beauty Balm Cheek & Lip in Berry Pink,cream,blush,8.99,,['Gluten Free'],4.0
+414,maybelline,Maybelline Dream Bouncy Blush,cream,blush,11.99,,[],4.5
+413,anna sui,Anna Sui Lip Colour Stain,lip_stain,lipstick,26.0,,[],
+412,revlon,Revlon Colorstay Moisture Stain,lip_stain,lipstick,12.99,,[],4.0
+411,revlon,Revlon ColorBurst Balm Stain,lip_stain,lipstick,11.49,,[],4.0
+410,wet n wild,Wet n Wild Mega Slicks Lip Balm Stain,lip_stain,lipstick,3.99,,[],4.2
+409,nyx,NYX Ombre Lip Duo,,lip_liner,15.99,,[],
+408,marcelle,Marcelle Forever Sharp Waterproof Lip Liner,,lip_liner,11.99,,['Canadian'],
+407,nyx,NYX Ombre Lip Duo ,,lip_liner,15.99,,[],
+406,covergirl,CoverGirl Lip Perfection Lipliner ,,lip_liner,9.99,,[],
+405,marcelle,Marcelle Waterproof Lip Definition Lip Liner,,lip_liner,10.99,,"['Canadian', 'Gluten Free']",
+404,cargo cosmetics,Cargo Cosmetics Reverse Lip Liner,,lip_liner,19.0,,[],5.0
+403,marcelle,Marcelle 2 in 1 Retractable Plumping Lip Liner ,,lip_liner,10.99,,"['Canadian', 'Gluten Free']",3.0
+402,nyx,NYX Lip Primer,,lip_liner,9.99,,[],5.0
+401,,Bonne Bell Lip Liner,,lip_liner,4.99,,[],4.5
+400,l'oreal,L'Oreal Paris Colour Riche Lip Liner,,lip_liner,11.29,,[],
+399,annabelle,Annabelle Stay Sharp Waterproof Lipliner,,lip_liner,9.99,,[],
+398,maybelline,Maybelline Color Sensational Lipliner,,lip_liner,8.29,,[],3.5
+397,l'oreal,L'Oreal Paris Infallible Never Fail Lip Liner,,lip_liner,11.99,,[],4.2
+396,nyx,NYX Slim Lip Pencil ,,lip_liner,4.99,,[],5.0
+395,e.l.f.,e.l.f. Studio Lip Primer & Plumper,,lip_liner,4.99,,['Vegan'],3.7
+394,revlon,Revlon ColorStay Lip Liner,,lip_liner,11.49,,[],5.0
+393,milani,Milani Color Statement Lipliner,,lip_liner,3.99,,[],4.7
+392,sante,Sante Lip Duo Contour and Gloss Pencil,,lip_liner,20.49,,"['Vegan', 'Gluten Free', 'Natural']",4.4
+391,marcelle,Marcelle Flawless Compact Foundation,cream,foundation,17.99,,['Canadian'],
+390,revlon,Revlon PhotoReady Insta-Fix Makeup,cream,foundation,19.99,,[],
+389,marcelle,Marcelle BB Cream-to-Powder Makeup,cream,foundation,22.99,,['Canadian'],5.0
+388,physicians formula,Physicians Formula Super BB All-in-1 Beauty Balm Stick,cream,foundation,12.99,,['Gluten Free'],2.5
+387,physicians formula,Physicians Formula Nude Wear Touch of Glow Stick in Nude Glow,cream,foundation,12.99,,['Gluten Free'],4.0
+386,covergirl,CoverGirl & Olay Simply Ageless Foundation ,cream,foundation,15.99,,[],5.0
+385,sante,Sante Soft Cream Foundation,cream,foundation,27.49,,['Natural'],3.8
+384,covergirl,CoverGirl Ultimate Finish Liquid Powder Makeup ,cream,foundation,9.99,,[],5.0
+383,revlon,Revlon Colorstay Whipped Creme Makeup,cream,foundation,19.99,,[],4.4
+382,maybelline,Maybelline Dream Smooth Mousse Foundation,cream,foundation,14.79,,[],3.8
+381,revlon,Revlon New Complexion One-Step Makeup,cream,foundation,18.29,,[],4.2
+380,maybelline,Maybelline Fit Me Shine-Free Foundation Stick,cream,foundation,10.99,,[],4.7
+379,maybelline,Maybelline Dream Matte Mousse Foundation,cream,foundation,14.79,,[],4.4
+378,e.l.f.,e.l.f. Studio HD Mattifying Cream Foundation,cream,foundation,9.99,,['Vegan'],4.8
+377,mineral fusion,Mineral Fusion Sheer Tint Foundation,cream,foundation,37.0,,"['Vegan', 'Gluten Free', 'Natural']",
+376,pure anada,Pure Anada Loose mineral foundation,mineral,foundation,25.99,,"['Canadian', 'Natural']",
+375,dr. hauschka,Dr. Hauschka Translucent Face Powder Compact,mineral,foundation,35.0,,[],
+374,physicians formula,Physicians Formula Mineral Wear Talc-Free All-In-One ABC Cushion Foundation,mineral,foundation,20.49,,"['Gluten Free', 'Natural']",4.0
+373,nyx,NYX Mineral Stick Foundation,mineral,foundation,11.99,,[],5.0
+372,nyx,NYX Stay Matte But Not Flat Powder Foundation,mineral,foundation,10.99,,[],
+371,milani,Milani Cream-To-Powder Makeup,cream,foundation,10.99,,[],4.4
+370,physicians formula,Physicians Formula Mineral Wear Flawless Complexion Kit ,powder,blush,29.99,,['Gluten Free'],4.8
+369,physicians formula,Physicians Formula Mineral Wear Correcting Kit ,mineral,foundation,29.99,,['Gluten Free'],4.7
+368,physicians formula,Physicians Formula Mineral Wear Airbrushing Pressed Powder ,mineral,foundation,19.99,,['Gluten Free'],4.7
+367,pure anada,Pure Anada Pressed Sheer Matte Foundation Pan,mineral,foundation,19.0,,"['Canadian', 'Natural']",4.3
+366,maybelline,Maybelline Mineral Power Natural Perfecting Powder Foundation,mineral,foundation,14.99,,[],3.9
+365,physicians formula,Physicians Formula Mineral Wear Airbrushing Loose Powder ,mineral,foundation,14.99,,['Gluten Free'],4.6
+364,pure anada,Pure Anada Loose Mineral Foundation ,mineral,foundation,12.0,,"['Canadian', 'Natural']",3.9
+362,covergirl,CoverGirl Outlast Stay Luminous Foundation Creamy Natural (820) ,liquid,foundation,12.49,,[],
+356,mineral fusion,Mineral Fusion Liquid Foundation,liquid,foundation,37.0,,"['Gluten Free', 'Natural']",4.0
+354,maybelline,Maybelline Dream Velvet Foundation,cream,foundation,18.49,,[],2.5
+353,maybelline,Maybelline Superstay Better Skin Foundation ,liquid,foundation,14.99,,[],3.0
+352,nyx,NYX Stay Matte But Not Flat Liquid Foundation,liquid,foundation,10.99,,[],4.0
+350,l'oreal,L'Oreal Paris True Match Lumi Glow Liquid Foundation,liquid,foundation,16.99,,[],3.0
+349,covergirl,"CoverGirl Ready, Set Gorgeous Liquid Makeup 105",liquid,foundation,8.99,,[],2.0
+348,covergirl,CoverGirl Outlast Stay Fabulous 3-in-1 Foundation,liquid,foundation,12.49,,[],
+347,,DaLish Silk to Matte Foundation,liquid,foundation,44.0,,"['Canadian', 'Natural']",4.0
+345,l'oreal,L'Oreal Paris Visible Lift Blur Foundation ,liquid,foundation,18.99,,[],
+344,covergirl,CoverGirl Clean Liquid Makeup Normal Skin ,liquid,foundation,9.49,,[],5.0
+343,cargo cosmetics,Cargo Cosmetics Liquid Foundation,liquid,foundation,42.0,,[],
+342,covergirl,CoverGirl Smoothers All-Day Hydrating Makeup ,liquid,foundation,8.99,,[],
+341,covergirl,CoverGirl Clean Oil Control Makeup ,liquid,foundation,9.49,,[],4.0
+340,physicians formula,Physicians Formula Nude Wear Touch of Glow Foundation,liquid,foundation,18.49,,['Gluten Free'],4.5
+339,maybelline,Maybelline Dream Wonder Liquid Touch Foundation,liquid,foundation,14.99,,[],
+338,covergirl,CoverGirl Advanced Radiance Age Defying Liquid Makeup ,liquid,foundation,12.49,,[],5.0
+337,revlon,Revlon Photoready Airbrush Effect Makeup,liquid,foundation,19.99,,[],
+336,revlon,Revlon Age Defying Firming + Lifting Makeup,liquid,foundation,19.99,,[],4.5
+335,l'oreal,L'Oreal Paris True Match Lumi Cushion Foundation,liquid,foundation,26.99,,[],4.0
+334,cargo cosmetics,Cargo Cosmetics OneBase for Face,liquid,foundation,28.0,,[],5.0
+333,physicians formula,Physicians Formula Youthful Wear Spotless Foundation,liquid,foundation,18.49,,['Gluten Free'],4.7
+332,annabelle,Annabelle SkinTrue Foundation,liquid,foundation,10.99,,[],5.0
+331,almay,Almay Smart Shade Skintone Matching Makeup ,liquid,foundation,17.29,,[],4.5
+330,l'oreal,L'Oreal Visible Lift Serum Absolute,liquid,foundation,20.49,,[],4.3
+329,almay,Almay Smart Shade Anti-Aging Skintone Matching Makeup,liquid,foundation,17.29,,[],4.2
+328,almay,Almay Truly Lasting Color Makeup,liquid,foundation,17.29,,[],4.5
+327,covergirl,CoverGirl Outlast Stay Fabulous 3-in-1 Foundation ,liquid,foundation,12.49,,[],4.0
+326,l'oreal,L'Oreal Paris True Match Lumi Healthy Luminous Foundation,liquid,foundation,20.99,,[],5.0
+325,l'oreal,L'Oreal Paris Infallible Pro-Matte Foundation,liquid,foundation,19.99,,[],4.3
+324,revlon,Revlon ColorStay Makeup for Normal / Dry Skin,liquid,foundation,19.99,,[],4.6
+323,dr. hauschka,Dr. Hauschka Foundation,liquid,foundation,39.0,,"['Vegan', 'Natural']",4.7
+322,e.l.f.,e.l.f. Studio Flawless Finish Foundation,liquid,foundation,9.99,,['Vegan'],4.0
+321,maybelline,Maybelline Dream Liquid Mousse,liquid,foundation,14.79,,[],4.4
+320,maybelline,Maybelline FIT ME! Matte + Poreless Foundation,liquid,foundation,10.99,,[],4.4
+319,revlon,Revlon ColorStay Makeup for Combination / Oily Skin,liquid,foundation,19.99,,[],3.8
+318,l'oreal,L'Oreal Paris True Match Super Blendable Makeup ,liquid,foundation,18.79,,[],4.1
+317,maybelline,Maybelline Fit Me Foundation with SPF,liquid,foundation,10.99,,[],3.8
+316,pure anada,Pure Anada Smooth & Conceal Liquid Foundation,liquid,foundation,25.0,,"['Canadian', 'Natural']",4.1
+315,e.l.f.,e.l.f. Studio Tinted Moisturizer,liquid,foundation,4.99,,['Vegan'],3.8
+314,almay,Almay Intense i-Color Everyday Neutrals for Blue Eyes,,eyeshadow,10.49,,[],4.0
+313,covergirl,CoverGirl Trunaked Eyeshadow Palettes in Roses,palette,eyeshadow,12.99,,[],5.0
+312,e.l.f.,e.l.f. Studio Baked Eyeshadow Trio ,,eyeshadow,6.99,,['Vegan'],
+311,l'oreal,L'Oreal Colour Riche La Palette Nude in Nude 02,palette,eyeshadow,29.99,,[],4.0
+310,dr. hauschka,Dr. Hauschka Eye Shadow ,,eyeshadow,22.0,,['Natural'],5.0
+309,maybelline,Maybelline Expert Wear Eye Shadow Quad ,,eyeshadow,8.99,,[],4.0
+308,sante,Sante Eyeshadow Trio,,eyeshadow,24.49,,"['Vegan', 'Gluten Free', 'Natural']",5.0
+307,maybelline,Maybelline Eyestudio Color Tattoo Concentrated Crayon,,eyeshadow,10.99,,[],3.0
+306,physicians formula,Physicians Formula Shimmer Strips Extreme Shimmer Shadow & Liner Palette ,palette,eyeshadow,15.79,,['Gluten Free'],4.5
+305,wet n wild,Wet n Wild Color Icon Eyeshadow Trio ,,eyeshadow,4.79,,[],5.0
+304,e.l.f.,e.l.f. Essential Little Black Beauty Book Eye Edition,palette,eyeshadow,9.99,,['Vegan'],4.0
+303,milani,Milani Everyday Eyes Powder Eyeshadow Collection,,eyeshadow,12.99,,[],5.0
+302,almay,Almay Intense i-Color Liquid Shadow + Color Primer,,eyeshadow,10.99,,[],4.5
+301,physicians formula,Physicians Formula Shimmer Strips Custom Shadow & Liner ,,eyeshadow,15.49,,['Gluten Free'],5.0
+300,covergirl,CoverGirl Eye Enhancers 1-Kit Shadow ,,eyeshadow,4.49,,[],5.0
+299,covergirl,CoverGirl Eye Enhancers 3-Kit Shadows ,,eyeshadow,6.49,,[],4.0
+298,revlon,"Revlon PhotoReady Primer, Shadow + Sparkle Palette",palette,eyeshadow,14.49,,[],5.0
+297,nyx,NYX Hot Singles Eye Shadow ,,eyeshadow,5.99,,[],5.0
+296,physicians formula,Physicians Formula Shimmer Strips All-in-1 Custom Nude Palette ,,bronzer,16.99,,['Gluten Free'],5.0
+295,maybelline,Maybelline The Nudes Eye Shadow Palette,palette,eyeshadow,17.99,,[],2.0
+294,pacifica,Pacifica Super Powder Supernatural Eye Shadow Trio,,eyeshadow,14.0,,"['Vegan', 'Natural']",4.3
+293,e.l.f.,e.l.f. Mad for Matte Eyeshadow Palette ,palette,eyeshadow,11.99,,[],4.4
+292,e.l.f.,e.l.f. Studio Baked Eyeshadow Trio,,eyeshadow,6.99,,['Vegan'],5.0
+291,maybelline,Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather,,eyeshadow,8.99,,[],4.3
+290,dr. hauschka,Dr. Hauschka Eye Shadow Palette,palette,eyeshadow,43.0,,['Natural'],4.8
+289,covergirl,CoverGirl Eye Enhancers 4-Kit Shadows,,eyeshadow,6.49,,[],4.6
+288,pacifica,Pacifica Mystical Supernatural Eye Shadow Palette,palette,eyeshadow,28.0,,"['Vegan', 'Natural']",4.9
+287,mistura,Mistura 6-in-1 Beauty Solution,,eyeshadow,56.49,,['Canadian'],2.6
+286,maybelline,Maybelline The Nudes Eyeshadow Palette in The Blushed Nudes,palette,eyeshadow,17.99,,[],4.5
+285,covergirl,CoverGirl Eye Enhancers 3-Kit Shadows,,eyeshadow,6.49,,[],4.0
+284,e.l.f.,e.l.f. Studio Prism Eyeshadow,palette,eyeshadow,13.99,,['Vegan'],4.8
+283,pacifica,Pacifica Enlighten Eye Brightening Shadow Palette,palette,eyeshadow,28.0,,"['Vegan', 'Gluten Free', 'Natural']",4.6
+282,wet n wild,Wet n Wild Color Icon Eye Shadow Collection,palette,eyeshadow,4.99,,[],4.2
+281,pure anada,Pure Anada Loose Luminous Eye Colour ,,eyeshadow,8.0,,"['Canadian', 'Natural']",4.5
+280,wet n wild,Wet n Wild Color Icon Eyeshadow Single,,eyeshadow,1.99,,[],4.6
+279,maybelline,Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow,,eyeshadow,8.99,,[],4.5
+278,pacifica,Pacifica Radiant Shimmer Highlighting Creams For Eyes Lips Face,powder,blush,28.0,,"['Vegan', 'Gluten Free', 'Natural']",3.6
+277,physicians formula,Physicians Formula Matte Collection Quad Eye Shadow,,eyeshadow,10.49,,['Gluten Free'],4.6
+276,cargo cosmetics,Cargo Cosmetics Eye Shadow Single,,eyeshadow,19.0,,[],5.0
+275,pure anada,Pure Anada Pressed Mineral Eye Color Pan,,eyeshadow,8.0,,"['Natural', 'Vegan', 'Gluten Free', 'Non-GMO', 'Canadian']",4.5
+274,pacifica,Pacifica Natural Minerals Solar Complete Color Mineral Palette,,bronzer,60.0,,"['Vegan', 'Natural']",4.9
+273,maybelline,Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ,,eyeshadow,8.99,,[],4.0
+271,covergirl,CoverGirl Trunaked Waterproof Eyeliner Duo in Mocha/Ebony,pencil,eyeliner,11.99,,[],
+270,anna sui,Anna Sui Eye Brightener,pencil,eyeliner,28.0,,[],
+268,anna sui,Anna Sui Sharpener,pencil,eyeliner,10.0,,[],
+267,covergirl,CoverGirl Bombshell Powder Brow & Liner in Dark Brown,pencil,eyeliner,9.49,,[],3.0
+266,anna sui,Anna Sui Pencil Eyeliner WP,pencil,eyeliner,26.0,,[],
+265,covergirl,CoverGirl Trunaked Waterproof Eyeliner Duo in Cashmere/Espresso,pencil,eyeliner,11.99,,[],
+264,revlon,Revlon PhotoReady Kajal Matte Eye Pencil,pencil,eyeliner,11.49,,[],
+262,physicians formula,Physicians Formula Shimmer Strips Extreme Shimmer Pencil + Smudger Trio,pencil,eyeliner,15.99,,"['Gluten Free', 'Natural']",
+261,covergirl,CoverGirl Full Lash Bloom Mascara + Perfect Point Plus Eye Liner,pencil,eyeliner,14.99,,[],
+260,l'oreal,L'Oreal Infallible Smokissime Powder Eyeliner Pen,pencil,eyeliner,12.99,,[],2.5
+259,physicians formula,Physicians Formula Shimmer Strips Extreme Shimmer Eyeliner Trio in Nude ,pencil,eyeliner,14.79,,['Gluten Free'],
+258,milani,Milani Supreme Kohl Kajal Eyeliner,pencil,eyeliner,8.99,,[],5.0
+257,annabelle,Annabelle Retractable Eyeliner,pencil,eyeliner,9.99,,[],5.0
+256,marcelle,Marcelle Lux Cream Eye Shadow + Liner,,eyeshadow,13.99,,['Canadian'],
+255,cargo cosmetics,Cargo Cosmetics Swimmables Eye Pencil,pencil,eyeliner,19.0,,[],4.7
+254,pacifica,Pacifica Magical Multi-Pencil Prime & Line,,lip_liner,16.0,,['Natural'],
+253,annabelle,Annabelle Smudgeliner ,pencil,eyeliner,8.99,,[],5.0
+252,mineral fusion,Mineral Fusion Eye Pencil,pencil,eyeliner,19.0,,"['Gluten Free', 'Natural']",4.5
+251,wet n wild,Wet n Wild Sharpen Up! Dual Pencil Sharpener,pencil,eyeliner,1.99,,[],5.0
+250,covergirl,CoverGirl Ink it! By Perfect Point Plus Eyeliner ,pencil,eyeliner,6.99,,[],
+249,annabelle,Annabelle Stay Sharp Waterproof Kohl Eyeliner,pencil,eyeliner,9.99,,[],
+248,pacifica,Pacifica Natural Eye Pencil,pencil,eyeliner,16.0,,"['Vegan', 'Gluten Free', 'Natural']",5.0
+247,covergirl,CoverGirl Liquiline Blast Eyeliner ,pencil,eyeliner,9.99,,[],4.5
+246,annabelle,Annabelle Smoothliner ,pencil,eyeliner,6.99,,[],4.8
+244,marcelle,Marcelle Waterproof Eyeliner,pencil,eyeliner,10.99,,['Canadian'],3.0
+243,physicians formula,Physicians Formula Shimmer Strips Eye Enhancing Eyeliner Trio ,pencil,eyeliner,14.79,,['Gluten Free'],5.0
+242,l'oreal,L'Oreal Paris Infallible Silkissime Eyeliner,pencil,eyeliner,11.99,,[],5.0
+240,l'oreal,L'Oreal Paris Extra-Intense Liquid Pencil Eyeliner,pencil,eyeliner,10.99,,[],4.3
+239,covergirl,CoverGirl Ink it! By Perfect Point Plus Eyeliner,pencil,eyeliner,6.99,,[],2.5
+238,physicians formula,Physicians Formula Shimmer Strips Eye Enhancing Eyeliner Trio,pencil,eyeliner,14.79,,['Gluten Free'],5.0
+237,covergirl,CoverGirl Perfect Point Plus Eyeliner Pencil ,pencil,eyeliner,7.49,,[],4.0
+236,milani,Milani Brow & Eye Highlighter Duo Pencil,pencil,eyeliner,6.99,,[],3.3
+235,l'oreal,L'Oreal Paris Infallible Never Fail Eye Liner,pencil,eyeliner,12.99,,[],3.5
+234,sante,Sante Kajal Eyeliner Pencil,pencil,eyeliner,17.29,,"['Vegan', 'Gluten Free', 'Natural']",3.9
+233,dr. hauschka,Dr. Hauschka Kajal Eyeliner,pencil,eyeliner,24.0,,[],4.4
+232,maybelline,Maybelline Line Express Eyeliner,pencil,eyeliner,7.29,,[],4.5
+231,almay,Almay Intense i-Colour Bring Out Eyeliner,pencil,eyeliner,10.99,,[],4.3
+230,maybelline,Maybelline Unstoppable Eyeliner,pencil,eyeliner,8.99,,[],4.3
+229,pure anada,Pure Anada Pureline Pencil Eye Liner,pencil,eyeliner,14.0,,"['Canadian', 'Natural']",4.0
+228,l'oreal,L'Oreal Paris Colour Riche Le Khol Eyeliner,pencil,eyeliner,9.29,,[],4.5
+227,,Earth Lab Vegan Mineral Eye Pencil,pencil,eyeliner,18.0,,"['Canadian', 'Vegan', 'Natural']",3.4
+226,revlon,Revlon ColorStay Eye Liner,pencil,eyeliner,11.49,,[],4.7
+225,maybelline,Maybelline Color Show Kohl Liner,pencil,eyeliner,5.99,,[],
+224,stila,Stila La Quill Eye Liner Brush,liquid,eyeliner,36.0,,[],
+223,nyx,NYX Super Fat Eye Marker,liquid,eyeliner,11.99,,[],
+222,covergirl,CoverGirl Bombshell Powder Brow & Liner in Blonde,pencil,eyeliner,9.49,,[],
+221,maybelline,Maybelline Eye Studio Master Graphic in Striking Black,liquid,eyeliner,11.99,,[],
+220,covergirl,CoverGirl Intensify Me! Liquid Liner,liquid,eyeliner,9.99,,[],
+216,l'oreal,L'Oreal Paris Infallible Black Velvet Liner,liquid,eyeliner,13.99,,[],
+215,milani,Milani Eye Tech Bold Liquid Eyeliner,liquid,eyeliner,10.99,,[],
+212,cargo cosmetics,Cargo Cosmetics TexasLiner Liquid Eye Liner,liquid,eyeliner,22.0,,[],
+211,wet n wild,Wet n Wild ProLine Graphic Marker Eyeliner,pencil,eyeliner,6.99,,[],
+210,,Pysicians Formula Eye Booster Cushion Liquid Liner + Serum Ultra Black,liquid,eyeliner,15.99,,"['Gluten Free', 'Natural']",
+209,annabelle,Annabelle EyeInk2 Liquid Eyeliner Duo,liquid,eyeliner,10.99,,[],
+207,annabelle,Annabelle Glitterama Liquid Eyeliner,liquid,eyeliner,8.96,,[],
+206,wet n wild,Wet n Wild ProLine Felt Tip Eyeliner,liquid,eyeliner,6.99,,[],4.0
+204,marcelle,Marcelle Double Precision Liquid Eyeliner Pen,liquid,eyeliner,14.99,,"['Canadian', 'Gluten Free']",
+203,annabelle,Annabelle EyeInk2 Mistake Proof Eyeliner + Corrector,liquid,eyeliner,10.99,,[],5.0
+202,covergirl,CoverGirl Ink It! By Perfect Point Plus Violet Ink,liquid,eyeliner,6.99,,[],
+201,marcelle,Marcelle Kajal Kohl Eyeliner Blackest Black,liquid,eyeliner,11.99,,"['Canadian', 'Gluten Free']",5.0
+200,wet n wild,Wet n Wild H2O Proof Liquid Eyeliner,liquid,eyeliner,6.99,,[],
+199,milani,Milani Eye Tech Extreme Liquid Eyeliner,liquid,eyeliner,10.99,,[],
+198,marcelle,Marcelle Waterproof Liquid DIP-PEN Eyeliner 10H+,liquid,eyeliner,13.99,,"['Canadian', 'Gluten Free']",
+197,physicians formula,Physicians Formula Sexy Booster Cat Eye Collection Liquid Eyeliner ,liquid,eyeliner,12.99,,['Gluten Free'],
+196,physicians formula,Physicians Formula Argan Wear Ultra-Nourishing Kohl Kajal Eyeliner,liquid,eyeliner,12.99,,"['Gluten Free', 'Natural']",3.7
+194,wet n wild,Wet n Wild MegaLiner Liquid Eyeliner,liquid,eyeliner,5.49,,[],
+193,revlon,Revlon ColorStay Skinny Liquid Liner ,liquid,eyeliner,11.99,,[],
+192,physicians formula,Physicians Formula Shimmer Strips Kohl Kajal Eyeliner Trio ,liquid,eyeliner,14.79,,['Gluten Free'],5.0
+191,zorah,Zorah Liquid Liner,liquid,eyeliner,24.0,,"['Natural', 'Organic', 'Vegan', 'Gluten Free', 'Canadian']",3.3
+190,milani,Milani Fierce Foil Eyeliner,liquid,eyeliner,9.99,,[],
+189,physicians formula,Physicians Formula Shimmer Strips Kohl Kajal Eyeliner Trio,liquid,eyeliner,14.79,,['Gluten Free'],5.0
+188,pacifica,Pacifica Natural Minerals Smolder Eye Lining Gel,,eyeshadow,27.96,,"['Vegan', 'Natural']",3.0
+187,suncoat,Suncoat Sugar-based Natural Liquid Eyeliner,liquid,eyeliner,16.99,,"['Canadian', 'Vegan', 'Natural']",3.5
+186,dr. hauschka,Dr. Hauschka Liquid Eyeliner,liquid,eyeliner,30.0,,[],4.0
+185,almay,Almay Liquid Liner,liquid,eyeliner,10.99,,[],4.2
+184,l'oreal,L'Oreal Infallible Super Slim 12H Liner,liquid,eyeliner,11.99,,[],
+183,e.l.f.,e.l.f. Intense Ink Eyeliner,liquid,eyeliner,3.99,,[],5.0
+182,e.l.f.,e.l.f. Studio Eyeliner & Shadow Stick ,,eyeshadow,4.99,,['Vegan'],5.0
+181,l'oreal,L'Oreal Telescopic Explosion Waterproof Eyeliner Black,liquid,eyeliner,12.99,,[],4.2
+180,e.l.f.,e.l.f. Studio Precision Liquid Eyeliner,liquid,eyeliner,4.99,,['Vegan'],3.7
+179,maybelline,Maybelline EyeStudio Master Precise Ink Pen Eyeliner,liquid,eyeliner,11.99,,[],4.0
+178,almay,Almay Intense i-Colour Play Up Liquid Liner,liquid,eyeliner,10.99,,[],4.0
+177,maybelline,Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner,liquid,eyeliner,10.29,,[],4.0
+176,e.l.f.,e.l.f. Studio Eye Primer & Liner Sealer,liquid,eyeliner,4.99,,['Vegan'],4.3
+175,revlon,Revlon ColorStay Liquid Eye Liner,liquid,eyeliner,11.49,,[],4.0
+174,l'oreal,L'Oreal Paris Lineur Intense Felt Tip Liquid,liquid,eyeliner,10.99,,[],4.3
+173,physicians formula,Physicians Formula Eye Booster Lash Boosting Eyeliner + Serum,liquid,eyeliner,14.79,,['Gluten Free'],4.0
+172,maybelline,Maybelline Liquid Eyeliner,liquid,eyeliner,10.99,,[],4.2
+171,e.l.f.,e.l.f. Studio Cream Eyeliner,liquid,eyeliner,4.99,,['Vegan'],4.5
+170,maybelline,Maybelline Eye Studio Lasting Drama Gel Eyeliner,liquid,eyeliner,11.99,,[],4.4
+169,covergirl,CoverGirl LineExact Liquid Eyeliner ,liquid,eyeliner,7.49,,[],4.3
+168,moov,Moov Cosmetics St. Tropez Collection,,nail_polish,14.99,,"['Natural', 'Vegan', 'Gluten Free', 'Fair Trade', 'Sugar Free', 'Non-GMO', 'Dairy Free', 'Canadian']",
+167,anna sui,Anna Sui Nail Colour,,nail_polish,15.0,,[],
+166,l'oreal,L'Oreal Infallible Nail Polish in Always a Lady,,nail_polish,10.99,,[],
+165,moov,Moov Cosmetics Caribbean Wedding Collection,,nail_polish,14.99,,"['Natural', 'Vegan', 'Gluten Free', 'Fair Trade', 'Sugar Free', 'Non-GMO', 'Dairy Free', 'Canadian']",2.0
+164,l'oreal,L'Oreal Infallible Nail Polish in Iconic Indigo ,,nail_polish,10.99,,[],
+162,l'oreal,L'Oreal Infallible Nail Polish in Ocean Infini,,nail_polish,10.99,,[],
+161,misa,Misa Nail Laquer,,nail_polish,9.39,,['Vegan'],5.0
+158,l'oreal,L'Oreal Infallible Nail Polish in Petale Revival,,nail_polish,10.99,,[],5.0
+157,salon perfect,Salon Perfect Nail Lacquer ,,nail_polish,6.99,,[],
+156,moov,Moov Cosmetics Home Grown Canuck Collection,,nail_polish,14.99,,"['Natural', 'Vegan', 'Gluten Free', 'Fair Trade', 'Sugar Free', 'Non-GMO', 'Dairy Free', 'Canadian']",3.0
+154,l'oreal,L'Oreal Infallible Nail Polish in Irresistible Bonbon,,nail_polish,10.99,,[],
+153,orly,Orly EPIX Flexible Sealcoat,,nail_polish,13.49,,[],5.0
+151,orly,Orly Nail Lacquer,,nail_polish,8.0,,[],
+149,orly,Orly EPIX Flexible Color ,,nail_polish,13.49,,[],3.0
+148,orly,Orly Nail Lacquer ,,nail_polish,8.0,,[],3.0
+147,wet n wild,Wet n Wild Wild Shine Nail Colour ,,nail_polish,1.99,,[],5.0
+146,maybelline,Maybelline Color Show Nail Lacquer Jewels ,,nail_polish,4.49,,[],3.0
+145,maybelline,Maybelline Color Show Nail Lacquer Veils ,,nail_polish,4.49,,[],4.0
+144,pacifica,Pacifica 7 Free Nail Polish Set - Blue,,nail_polish,21.5,,['Vegan'],5.0
+142,l'oreal,L'Oreal Colour Riche Gold Dust Nail Colour,,nail_polish,7.79,,[],
+141,l'oreal,L'Oreal Extraordinaire Gel Lacque Nail Colour,,nail_polish,8.99,,[],
+140,pacifica,7 Free Nail Polish Set - Red,,nail_polish,21.5,,['Vegan'],5.0
+139,china glaze,China Glaze Nail Lacquer ,,nail_polish,8.0,,[],4.7
+138,essie,Essie Encrusted Nail Polish Collection,,nail_polish,10.0,,[],5.0
+137,revlon,Revlon Transforming Effects Top Coats,,nail_polish,6.99,,[],4.0
+136,sante,Sante Nail Polish,,nail_polish,19.29,,['Natural'],4.4
+135,pure anada,Pure Anada Princess Cosmetics Sugar Plum Kit ,,nail_polish,15.0,,"['Canadian', 'Natural']",5.0
+134,l'oreal,L'Oreal Paris Colour Riche Collection Exclusive Nail Colour,,nail_polish,7.79,,[],
+133,maybelline,Maybelline Color Show Nail Lacquer ,,nail_polish,4.49,,[],3.3
+132,pure anada,Pure Anada Princess Cosmetics Be Mine Kit ,,nail_polish,15.0,,"['Canadian', 'Natural']",5.0
+131,essie,Essie Nail Colour Cashmere Matte Collection,,nail_polish,10.0,,[],1.5
+130,revlon,Revlon Top Speed Enamel Nail,,nail_polish,6.99,,[],4.8
+129,butter london,butter LONDON Patent Shine 10x Nail Laquer,,nail_polish,22.0,,"['Vegan', 'Natural']",5.0
+128,suncoat,Suncoat Polish & Peel Super Natural Mineral Nail Polish,,nail_polish,9.29,,"['Canadian', 'Natural']",3.8
+127,essie,Essie Mirror Metallics,,nail_polish,10.0,,[],3.4
+126,pure anada,Pure Anada Nail Polish,,nail_polish,10.0,,"['Natural', 'Vegan', 'Gluten Free', 'Non-GMO', 'Canadian']",4.8
+125,sinful colours,Sinful Colours Nail Polish,,nail_polish,2.99,,[],4.3
+124,mineral fusion,Mineral Fusion Nail Polish,,nail_polish,10.0,,"['Gluten Free', 'Natural']",4.0
+123,covergirl,CoverGirl Outlast Stay Brilliant Nail Gloss,,nail_polish,5.99,,[],
+122,revlon,Revlon Nail Enamel,,nail_polish,6.99,,[],4.4
+121,essie,Essie Nail Colour,,nail_polish,10.0,,[],4.3
+120,suncoat,Suncoat Girl Nail Beauty Kit with Decals Ballerina Beauty,,nail_polish,22.49,,"['Canadian', 'Natural']",4.0
+119,suncoat,Suncoat Girl Nail Beauty Kit with Decals Mermaid Princess,,nail_polish,22.49,,"['Canadian', 'Natural']",4.0
+117,l'oreal,L'Oreal Infallible Nail Polish in Keep Magenta,,nail_polish,10.99,,[],
+116,piggy paint,Piggy Paint Nail Polish,,nail_polish,11.99,,['Natural'],4.3
+115,suncoat,Suncoat Girl Water-Based Nail Polish,,nail_polish,8.29,,"['Canadian', 'Natural']",3.9
+114,covergirl,CoverGirl Outlast Longwear Lipstick,lipstick,lipstick,10.99,,[],
+113,covergirl,CoverGirl Outlast Lipcolor Moisturizing Clear Topcoat (500),lipstick,lipstick,12.99,,[],
+107,butter london,butter LONDON Moisture Matte Lipstick,lipstick,lipstick,28.96,,[],
+106,l'oreal,L'Oreal Paris Colour Riche Le Matte & La Lacque Lip Colour,lipstick,lipstick,11.49,,[],
+105,covergirl,CoverGirl Colorlicious Lipstick,lipstick,lipstick,10.49,,[],
+102,covergirl,CoverGirl Outlast Lipcolor,lipstick,lipstick,12.99,,[],5.0
+101,mineral fusion,Mineral Fusion Sheer Moisture Lip Tint,lipstick,lipstick,12.0,,"['Vegan', 'Gluten Free', 'Natural']",
+99,dr. hauschka,Dr. Hauschka Limited Edition Lipstick Novum,lipstick,lipstick,27.0,,"['Organic', 'Natural']",5.0
+98,marcelle,Marcelle Rouge Xpression Lipstick,lipstick,lipstick,11.99,,"['Canadian', 'Gluten Free']",
+97,maybelline,Maybelline Color Sensational Vivid Matte Liquid Lip Colour,lipstick,lipstick,12.99,,[],
+96,revlon,Revlon Ultra HD Lip Lacquer,lipstick,lipstick,10.99,,[],5.0
+95,nyx,NYX Jumbo Lip Pencil ,lipstick,lipstick,5.99,,[],4.0
+94,cargo cosmetics,Cargo Cosmetics ColorStick,lipstick,lipstick,32.0,,[],4.0
+93,revlon,Revlon ColorBurst Lacquer Balm,lipstick,lipstick,11.49,,[],
+92,cargo cosmetics,Cargo Cosmetics Essential Lip Color,lipstick,lipstick,24.0,,['Gluten Free'],4.8
+91,l'oreal,L'Oreal Paris Colour Riche Collection Exclusive Pure Reds,lipstick,lipstick,10.99,,[],5.0
+90,nyx,NYX Extra Creamy Round Lipstick,lipstick,lipstick,6.99,,[],4.0
+89,maybelline,Maybelline Color Sensational Rebel Bloom Lipcolour ,lipstick,lipstick,9.99,,[],3.0
+87,dalish,DaLish Lipstick Matte Collection,lipstick,lipstick,22.0,,"['Canadian', 'Natural']",3.8
+86,e.l.f.,e.l.f. Gotta Glow Lip Tint ,lipstick,lipstick,7.99,,[],4.5
+85,maybelline,Maybelline Lip Studio Color Blur ,lipstick,lipstick,11.99,,[],
+84,l'oreal,L'Oreal Color Riche Extraordinaire Lip Color,lipstick,lipstick,13.96,,[],4.0
+83,almay,Almay Smart Shade Butter Kiss Lipstick,lipstick,lipstick,8.99,,[],
+82,wet n wild,Wet n Wild Silk Finish Lipstick,lipstick,lipstick,1.99,,[],5.0
+81,l'oreal,L'Oreal Paris Colour Riche Crystal Shine,lipstick,lipstick,10.99,,[],5.0
+80,dr. hauschka,Dr. Hauschka Lipstick ,lipstick,lipstick,34.0,,[],4.9
+79,revlon,Revlon Ultra HD Matte Lipcolor,lipstick,lipstick,10.99,,[],5.0
+78,l'oreal,L'Oreal Infallible Lipstick ,lipstick,lipstick,13.99,,[],5.0
+77,revlon,Revlon ColorStay Ultimate Suede Lipstick,lipstick,lipstick,14.49,,[],3.3
+75,revlon,Revlon Ultra HD Lipstick,lipstick,lipstick,10.99,,[],
+74,l'oreal,L'Oreal Paris Colour Riche Collection Exclusive Lip Colour ,lipstick,lipstick,10.99,,[],4.7
+73,maybelline,Maybelline Color Sensational The Buffs Lipcolour,lipstick,lipstick,9.99,,[],4.8
+72,maybelline,Maybelline Color Sensational Vivids Lipcolour,lipstick,lipstick,9.99,,[],5.0
+71,pacifica,Pacifica Devocean Natural Lipstick Deeply Devoted Creamy Color,lipstick,lipstick,21.0,,"['Vegan', 'Natural']",4.3
+70,burt's bees,Burt's Bees Lipstick ,lipstick,lipstick,9.99,,['Natural'],3.7
+69,maybelline,Maybelline Color Sensational Creamy Mattes Lipcolour ,lipstick,lipstick,9.99,,[],5.0
+68,l'oreal,L'Oreal Paris Colour Riche Lipstick,lipstick,lipstick,10.99,,[],4.6
+67,revlon,Revlon Matte Lipstick,lipstick,lipstick,11.79,,[],4.5
+66,revlon,Revlon ColorStay Ultimate Liquid Lipstick,lipstick,lipstick,14.49,,[],4.1
+65,maybelline,Maybelline Color Sensational Lipcolour,lipstick,lipstick,9.99,,[],4.2
+64,nyx,NYX Soft Matte Lip Cream,lipstick,lipstick,8.99,,[],4.5
+62,burt's bees,Burt's Bees Lip Crayon,lipstick,lipstick,9.99,,['Natural'],4.5
+61,e.l.f.,e.l.f. Studio Matte Lip Color,lipstick,lipstick,4.99,,['Vegan'],4.3
+60,revlon,Revlon Super Lustrous Lipstick,lipstick,lipstick,11.49,,[],4.9
+59,milani,Milani Color Statement Moisture Matte Lipstick,lipstick,lipstick,6.99,,[],4.7
+58,milani,Milani Color Statement Lipstick,lipstick,lipstick,6.99,,[],4.4
+57,revlon,Revlon ColorBurst Matte Balm ,lipstick,lipstick,11.49,,[],4.3
+56,e.l.f.,e.l.f. Studio Moisturizing Lipstick,lipstick,lipstick,4.99,,['Vegan'],4.1
+55,pure anada,Pure Anada Petal Perfect Lipstick,lipstick,lipstick,14.0,,"['Natural', 'Gluten Free', 'Non-GMO', 'Peanut Free Product', 'Canadian']",4.3
+54,mineral fusion,Mineral Fusion Lengthening Mascara,,mascara,19.0,,"['Gluten Free', 'Natural']",3.4
+53,covergirl,CoverGirl Professional Mascara Curved Brush Very Black,,mascara,6.99,,[],
+52,covergirl,CoverGirl Professional Mascara Curved Brush Black Brown,,mascara,6.99,,[],
+51,l'oreal,L'Oreal Paris Voluminous Butterfly Midnight Black Mascara,,mascara,13.49,,[],4.7
+50,zorah,Zorah Mascara Lengthing,,mascara,27.0,,"['Natural', 'Organic', 'Gluten Free', 'Canadian']",4.8
+49,covergirl,CoverGirl LashBlast Fusion Water Resistant Mascara ,,mascara,9.99,,[],4.8
+48,physicians formula,Physicians Formula Eye Booster Instant Lash Extension Kit in Ultra Black,,mascara,19.99,,['Gluten Free'],4.6
+47,l'oreal,L'Oreal Paris Voluminous Million Lashes Excess Mascara ,,mascara,13.99,,[],4.5
+46,covergirl,CoverGirl LastBlast Clump Crusher Water Resistant Mascara ,,mascara,9.99,,[],5.0
+45,almay,Almay Intense i-Color Volumizing Mascara,,mascara,10.99,,[],4.3
+44,covergirl,CoverGirl LashBlast Full Lash Bloom Mascara Very Black (800),,mascara,9.99,,[],4.0
+43,covergirl,CoverGirl Professional Super Thick Lash Mascara Very Black,,mascara,6.99,,[],5.0
+42,maybelline,Maybelline Volum'Express Falsies Big Eyes Mascara,,mascara,12.99,,[],4.5
+41,l'oreal,L'Oreal Paris Voluminous Butterfly Mascara ,,mascara,13.49,,[],
+40,covergirl,CoverGirl Professional Waterproof Mascara Very Black,,mascara,6.99,,[],
+39,physicians formula,Physicians Formula Organic Wear CC Curl + Care Mascara ,,mascara,15.79,,"['Natural', 'Gluten Free']",3.2
+38,marcelle,Marcelle Ultimate Lash Mascara,,mascara,10.99,,"['Canadian', 'Gluten Free']",4.5
+37,e.l.f.,e.l.f. Studio Lengthening & Volumizing Mascara,,mascara,4.99,,['Vegan'],4.0
+36,wet n wild,Wet n Wild Mega Protein Mascara,,mascara,3.49,,[],5.0
+35,covergirl,CoverGirl Lashblast Volume Blasting Waterproof Mascara,,mascara,9.99,,[],5.0
+34,covergirl,CoverGirl LashBlast Fusion Mascara ,,mascara,9.99,,[],4.8
+33,covergirl,CoverGirl Professional Natural Lash Mascara Clear,,mascara,6.99,,[],4.0
+32,maybelline,Maybelline Define-A-Lash Lengthening & Defining Mascara,,mascara,10.79,,[],4.4
+31,covergirl,CoverGirl LastBlast Clump Crusher Mascara ,,mascara,9.99,,[],4.5
+30,almay,Almay One Coat Get Up & Grow Mascara,,mascara,10.99,,[],4.3
+29,maybelline,Maybelline Great Lash - Clear,,mascara,7.79,,[],3.8
+28,physicians formula,Physicians Formula Organic Wear Jumbo Lash Mascara,,mascara,15.79,,"['Natural', 'Gluten Free']",3.1
+27,dr. hauschka,Dr. Hauschka Mascara,,mascara,33.0,,['Natural'],4.3
+26,e.l.f.,e.l.f. Studio Waterproof Lengthening & Volumizing Mascara,,mascara,4.99,,['Vegan'],4.8
+25,l'oreal,L'Oreal Paris Extra Volume Collagen Mascara,,mascara,13.99,,[],4.8
+24,almay,Almay One Coat Thickening Mascara,,mascara,10.99,,[],4.1
+23,maybelline,Maybelline Great Lash Big Mascara,,mascara,7.79,,[],4.0
+22,e.l.f.,e.l.f. Studio Mineral Infused Mascara,,mascara,4.99,,['Vegan'],4.3
+21,,Earth Lab Raw Mascara,,mascara,24.0,,"['Natural', 'Canadian']",4.1
+20,maybelline,Maybelline Great Lash Mascara,,mascara,7.79,,[],4.2
+19,l'oreal,L'Oreal Paris Double Extend Beauty Tubes,,mascara,14.99,,[],4.6
+18,l'oreal,L'Oreal Paris Telescopic Mascara,,mascara,13.79,,[],4.7
+17,suncoat,Suncoat Sugar-Based Mascara,,mascara,16.49,,"['Natural', 'Vegan', 'Canadian']",3.4
+16,pacifica,Pacifica Aquarian Gaze Water-Resistant Mascara,,mascara,21.0,,"['Natural', 'Vegan']",4.8
+15,physicians formula,Physicians Formula Organic Wear 100% Natural Origin Mascara,,mascara,15.79,,"['Gluten Free', 'Natural']",4.0
+14,maybelline,Maybelline Volum' Express Colossal Mascara,,mascara,9.79,,[],4.5
+13,l'oreal,L'Oreal Paris Voluminous Volume Building Mascara,,mascara,9.99,,[],2.5
+12,maybelline,Maybelline Illegal Length Fiber Extensions Mascara,,mascara,11.49,,[],4.0
+11,maybelline,Maybelline Volum' Express The Rocket Mascara,,mascara,10.99,,[],
+10,l'oreal,L'Oreal Paris Voluminous Million Lashes Mascara,,mascara,13.29,,[],4.6
+9,maybelline,Maybelline Great Lash Lots of Lashes Mascara,,mascara,7.79,,[],4.2
+8,maybelline,Maybelline Lash Stiletto Ultimate Length Mascara,,mascara,10.99,,[],4.0
+7,maybelline,Maybelline Volum'Express the Falsies Mascara,,mascara,9.79,,[],4.0
+6,covergirl,CoverGirl Lashblast Volume Blasting Mascara ,,mascara,9.99,,[],4.8
+5,pacifica,Pacifica Stellar Gaze Length & Strength Mineral Mascara,,mascara,28.0,,"['Natural', 'Vegan']",4.2
+4,physicians formula,Physicians Formula Organic Wear FakeOut Mascara,,mascara,15.79,,"['Natural', 'Gluten Free']",3.9
+3,physicians formula,Physicians Formula Organic Wear Lash Boosting Mascara,,mascara,15.79,,"['Natural', 'Gluten Free']",3.7
+2,,L' Oreal Paris Voluminous Mascara,,mascara,9.99,,[],4.5
+1,pure anada,Pure Anada Natural Mascara,,mascara,14.0,,"['Natural', 'Gluten Free', 'Canadian']",4.6
