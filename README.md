@@ -15,7 +15,7 @@ It explores the safety of various makeup products
 
 - Ingredients effect on ratings : Sheryl
 - Makeup rating & brand effect on price : Niekelle
-- Product type vs. average price across different countries (currencies): Renee
+- Product type vs. average price: Renee
 - Country effect on ingredients/tags : Christina
 - Category & taglist effect on price : Leomary
 - Difference in market price (price, currency, price sign) between different countries and products : Amina
