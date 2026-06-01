@@ -15,11 +15,11 @@ It explores the safety of various makeup products
 
 - Ingredients effect on ratings : Sheryl
 - Makeup rating & brand effect on price : Niekelle
-- Country effect on ratings : Renee
+- Product type vs. average price by Country/Currency: Renee
 - Country effect on ingredients/tags : Christina
 - Category & taglist effect on price : Leomary
 - Difference in market price (price, currency, price sign) between different countries and products : Amina
-- Makeup color impact on price?
+
 
 ## What is your dependent variable in the data you are pulling from?
 
